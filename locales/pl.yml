@@ -8,7 +8,7 @@ pl:
     index_marc_fields: Indeks pól MARC
     male: mężczyzna
     marc_tag_index: Indeks znaczników MARC
-    'no': Nie
+    'no': 'Nie'
     rism: RISM
     rism_best_practices: Dobre praktyki RISM
     rism_instrument_abbreviations: Określenia głosów i instrumentów (kontynuacja)
@@ -30,7 +30,7 @@ pl:
     validity: Ważność
     when_to_input_new_record: Kiedy wprowadzić nowy rekord (dla druków muzycznych)
     workflow: Przepływ pracy
-    'yes': Tak
+    'yes': 'Tak'
   languages:
     afrikaans: Afrykanerski
     arabic: Arabski
@@ -481,7 +481,7 @@ pl:
     immediate_parent_body: Natychmiastowy rodzic
     import: Import
     imprint: Stopka wydawnicza
-    incipit: Incipit
+    incipit: Incipity
     incipit_number: Numer incipitu
     incipits: Incipity
     index_terms: Pojęcia indeksowane
@@ -619,13 +619,10 @@ pl:
     octoechos2: 'Octoechos 2: Ēchos deuteros (druga skala muzyki bizantyjskiej)'
     octoechos3: 'Octoechos 3: Ēchos tritos (trzecia skala muzyki bizantyjskiej)'
     octoechos4: 'Octoechos 4: Ēchos tetartos (czwarta skala muzyki bizantyjskiej)'
-    octoechos5: 'Octoechos 5: Ēchos plagios prōtos (pierwsza skala plagalna muzyki
-      bizantyjskiej)'
-    octoechos6: 'Octoechos 6: Ēchos plagios deuteros (druga skala plagalna muzyki
-      bizantyjskiej)'
+    octoechos5: 'Octoechos 5: Ēchos plagios prōtos (pierwsza skala plagalna muzyki bizantyjskiej)'
+    octoechos6: 'Octoechos 6: Ēchos plagios deuteros (druga skala plagalna muzyki bizantyjskiej)'
     octoechos7: 'Octoechos 7: Ēchos barys (trzecia skala plagalna muzyki bizantyjskiej)'
-    octoechos8: 'Octoechos 8: Ēchos plagios tetartos (czwarta skala plagalna muzyki
-      bizantyjskiej)'
+    octoechos8: 'Octoechos 8: Ēchos plagios tetartos (czwarta skala plagalna muzyki bizantyjskiej)'
     online_finding_aids: Pomoce archiwalne on-line
     opera_houses_concert_halls: Opery i sale koncertowe
     opus_number: Numer opus
@@ -808,7 +805,7 @@ pl:
     type_relationship: Rodzaj relacji
     typescript: Maszynopis
     typography: Typografia
-    uncategorized: Bez kategorii
+    uncategorized: Uncategorized
     unknown: Nieznane
     unparsed_fingerprint: Nieprzeanalizowany odcisk palca
     variant_ms_title: Alternatywny tytuł w rękopisie
