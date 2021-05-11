@@ -28,10 +28,9 @@ it:
     url: URL
     using_muscat: Guida a Muscat
     validity: Validità
-    when_to_input_new_record: Quando inserire una nuova scheda (edizioni musicali
-      a stampa)
+    when_to_input_new_record: Quando inserire una nuova scheda (edizioni musicali a stampa)
     workflow: Workflow
-    'yes': Sì
+    'yes': 'Sì'
   languages:
     afrikaans: Afrikaans
     arabic: Arabo
@@ -620,13 +619,10 @@ it:
     octoechos2: 'Octoechos 2: Ēchos deuteros (secondo modo nella musica bizantina)'
     octoechos3: 'Octoechos 3: Ēchos tritos (terzo modo nella musica bizantina)'
     octoechos4: 'Octoechos 4: Ēchos tetartos (quarto modo nella musica bizantina)'
-    octoechos5: 'Octoechos 5: Ēchos plagios prōtos (primo modo plagale nella musica
-      bizantina)'
-    octoechos6: 'Octoechos 6: Ēchos plagios deuteros (secondo modo plagale nella musica
-      bizantina)'
+    octoechos5: 'Octoechos 5: Ēchos plagios prōtos (primo modo plagale nella musica bizantina)'
+    octoechos6: 'Octoechos 6: Ēchos plagios deuteros (secondo modo plagale nella musica bizantina)'
     octoechos7: 'Octoechos 7: Ēchos barys (terzo modo plagale nella musica bizantina)'
-    octoechos8: 'Octoechos 8: Ēchos plagios tetartos (quarto modo plagale nella musica
-      bizantina)'
+    octoechos8: 'Octoechos 8: Ēchos plagios tetartos (quarto modo plagale nella musica bizantina)'
     online_finding_aids: Strumenti di supporto alla ricerca online
     opera_houses_concert_halls: Teatri e sale da concerto
     opus_number: N.o d'opera
@@ -809,7 +805,7 @@ it:
     type_relationship: Relazione
     typescript: Dattiloscritto
     typography: Stampa tipografica
-    uncategorized: Non categorizzato
+    uncategorized: Uncategorized
     unknown: Sconosciuto
     unparsed_fingerprint: Impronta non analizzata
     variant_ms_title: Varianti del titolo diplomatico
