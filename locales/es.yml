@@ -4,7 +4,7 @@ es:
     editor_help: Ayuda del editor
     faq: Preguntas frecuentes
     female: femenino
-    how_do_i: ¿Cómo hago ...? Sugerencias y trucos
+    how_do_i: '¿Cómo hago ...? Sugerencias y trucos'
     index_marc_fields: Índice de campos MARC
     male: masculino
     marc_tag_index: Índice de etiquetas MARC
@@ -30,7 +30,7 @@ es:
     validity: Validez
     when_to_input_new_record: Cuándo crear un nuevo registro (música impresa)
     workflow: Flujo de trabajo
-    'yes': Sí
+    'yes': 'Sí'
   languages:
     afrikaans: Afrikáans
     arabic: Árabe
@@ -156,7 +156,7 @@ es:
     germany_bavaria: 'Alemania: Bavaria'
     germany_saxony: 'Alemania: Sajonia'
     greece: Grecia
-    guatemala: ''
+    guatemala: Guatemala
     guinea: Guinea
     holy_see: Santa Sede
     honduras: Honduras
@@ -166,7 +166,7 @@ es:
     india: India
     indonesia: Indonesia
     iran: Irán, República Islámica de
-    iraq: ''
+    iraq: Iraq
     ireland: Irlanda
     israel: Israel
     italy: Italia
@@ -221,7 +221,7 @@ es:
     access_restrictions: Restricciones de acceso
     accession_number: Número de accesión
     acronym: Acrónimo
-    added_entry_name: ''
+    added_entry_name: Added entry name
     additional_author: Autor adicional
     additional_bibliographic_information: Información bibliográfica adicional
     additional_biographical_information: Información biográfica adicional
@@ -279,7 +279,7 @@ es:
     bookseller: Librero
     bound_with: Encuadernado con
     brass_instruments: Vientos-metal
-    brief: ''
+    brief: Brief
     broader_term: Un término más amplio
     brother_of: Hermano de
     byname: Apodo
@@ -295,7 +295,7 @@ es:
     c_plus_3: C+3
     c_plus_4: C+4
     c_plus_5: C+5
-    catalog_opus_number: ''
+    catalog_opus_number: Catalog number/Opus number
     catalog_works: Catálogo de obras
     cataloging_agency: Agencia catalogadora
     cataloging_collection_convoluta: Catalogación de colecciones y volúmenes compuestos
@@ -380,7 +380,7 @@ es:
     dissertation_note: Nota de disertación
     distribution: Distribución
     distributor: Distribuidor
-    documentation_center: ''
+    documentation_center: Documentation center
     donor: Donante
     doubtful: Dudosa
     dramatic_roles_original: Nombres de personajes, ortografía original
@@ -507,7 +507,7 @@ es:
     key: Tonalidad
     key_or_mode: Tonalidad o modo
     key_signature: Armadura de clave
-    keyboards: ''
+    keyboards: Keyboards
     keys: Tonalidades
     language_code: Código de idioma
     language_codes: Código de idioma
@@ -591,7 +591,7 @@ es:
     multiple: Múltiples
     multiple_copies: Múltiples ejemplares en una institución
     multiple_single_dates: Fechas múltiples
-    museum: ''
+    museum: Museum
     music_incipit: Íncipit musical
     musical_composition: Composición musical
     name: Nombre
@@ -651,7 +651,7 @@ es:
     parts_held_extent: Particellas conservadas y extensión de las mismas
     patron: Comitente
     people_institutions: Personas e instituciones
-    percussion: ''
+    percussion: Percussion
     performance: Interpretación
     performances: Interpretaciones
     performer: Intérprete
@@ -805,7 +805,7 @@ es:
     type_relationship: Tipo de relación
     typescript: Escrito mecanografiado
     typography: Tipografía
-    uncategorized: Sin categorizar
+    uncategorized: Uncategorized
     unknown: Desconcido
     unparsed_fingerprint: Identificador tipográfico no disgregado
     variant_ms_title: Variante de título en fuente
