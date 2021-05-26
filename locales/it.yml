@@ -650,6 +650,7 @@ it:
     parts_held: Parti staccate esistenti
     parts_held_extent: Parti staccate, estensione
     patron: Committente
+    people: People
     people_institutions: Persone ed istituzioni
     percussion: Strumenti a percussione
     performance: Esecutori
@@ -739,6 +740,7 @@ it:
     solo_voice: Voce solista
     soloist_instrument: Strumento solista
     source: Fonte
+    sources: Sources
     source_data_found: Fonte dei dati
     source_data_not_found: Fonte consultata senza esito
     source_description: Copa esaminata per la catalogazione
