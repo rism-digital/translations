@@ -650,6 +650,7 @@ fr:
     parts_held: Parties existantes
     parts_held_extent: Parties, extension
     patron: Mécène
+    people: People
     people_institutions: Personnes et institutions
     percussion: Percussions
     performance: Exécuteurs
@@ -739,6 +740,7 @@ fr:
     solo_voice: Voix seule
     soloist_instrument: Instrument soliste
     source: Source
+    sources: Sources
     source_data_found: Source des données
     source_data_not_found: Source consultée sans résultat
     source_description: Copie consultée pour le catalogage
