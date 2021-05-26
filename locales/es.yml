@@ -650,6 +650,7 @@ es:
     parts_held: Particellas conservadas
     parts_held_extent: Particellas conservadas y extensión de las mismas
     patron: Comitente
+    people: People
     people_institutions: Personas e instituciones
     percussion: Percussion
     performance: Interpretación
@@ -739,6 +740,7 @@ es:
     solo_voice: Voz solista
     soloist_instrument: Instrumento solista
     source: Fuente
+    sources: Sources
     source_data_found: Fuente de los datos encontrados
     source_data_not_found: Fuente de los datos no encontrados
     source_description: Copia examinada para la catalogación
