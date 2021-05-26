@@ -650,6 +650,7 @@ pl:
     parts_held: Głosy
     parts_held_extent: Głosy, objętość
     patron: Sponsor
+    people: People
     people_institutions: Osoby i instytucje
     percussion: Perkusja
     performance: Wykonanie
@@ -739,6 +740,7 @@ pl:
     solo_voice: Głos solowy
     soloist_instrument: Instrument solowy
     source: Źródło
+    sources: Sources
     source_data_found: Odnalezione źródło danych
     source_data_not_found: Brak źródła danych
     source_description: Uwaga o źródle opisu
