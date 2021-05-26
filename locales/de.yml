@@ -650,6 +650,7 @@ de:
     parts_held: Vorhandene Stimmen
     parts_held_extent: Stimmenmaterial
     patron: Mäzen/Auftraggeber
+    people: People
     people_institutions: Personen und Körperschaften
     percussion: Schlaginstrumente
     performance: Mitwirkende
@@ -739,6 +740,7 @@ de:
     solo_voice: Solostimme
     soloist_instrument: Solistisches Instrument
     source: Quelle
+    sources: Sources
     source_data_found: Literaturnachweis
     source_data_not_found: Quelle ohne Ergebnis konsultiert
     source_description: Vorlageexemplar
