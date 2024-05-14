@@ -912,6 +912,15 @@ pl:
     P60274: "Ułożone jako"
     P60194: "Wstawić do"
     P60183: "Wstawić"
+  relations_works:
+    P60250: "Has derivative"
+    P60305: "Has source"
+    P60216: "Is expanded as"
+    P60294: "Is expanded version of"
+    P60274: "Is arranged as"
+    P60242: "Is arragement of"
+    P60198: "Is complemented by"
+    P60313: "Undefined"
   verovio:
     position: "Pozycja"
     warning: "Uwaga"
