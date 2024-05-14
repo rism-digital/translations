@@ -892,7 +892,7 @@ pt:
     watermark_description: Descrição de Marca de água
     woodwinds: Madeiras
     work: Obra
-    work_catalog_note: Work catalog note
+    work_catalog_note: Nota no catálogo da obra
     work_number: Número de obra
     work_tag: Etiqueta de revisão de trabalho
     work_tag_incipit_needs_revision: incipit-needs-revision
