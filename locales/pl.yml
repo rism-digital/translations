@@ -892,6 +892,7 @@ pl:
     watermark_description: Opis znaku wodnego
     woodwinds: Instrumenty dęte drewniane
     work: Dzieło
+    work_catalog_note: Work catalog note
     work_number: Numer dzieła
     work_tag: tag edycji Dzieła
     work_tag_incipit_needs_revision: incipit wymaga ponownego sprawdzenia
