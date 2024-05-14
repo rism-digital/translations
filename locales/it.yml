@@ -892,6 +892,7 @@ it:
     watermark_description: Filigrana
     woodwinds: Legni
     work: Opera
+    work_catalog_note: Work catalog note
     work_number: Numero dell'opera
     work_tag: Tag per il Work
     work_tag_incipit_needs_revision: incipit-needs-revision
