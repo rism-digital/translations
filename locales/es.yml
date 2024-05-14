@@ -892,6 +892,7 @@ es:
     watermark_description: Descripción de las filigranas
     woodwinds: Vientos-madera
     work: Obra
+    work_catalog_note: Work catalog note
     work_number: Número de obra
     work_tag: Etiqueta de revisión de trabajo
     work_tag_incipit_needs_revision: incipit-needs-revision
