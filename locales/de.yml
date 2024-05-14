@@ -892,6 +892,7 @@ de:
     watermark_description: Wasserzeichen
     woodwinds: Holzblasinstrumente
     work: Werktitel
+    work_catalog_note: Work catalog note
     work_number: Werknummer
     work_tag: Markierung der Werk-Revision
     work_tag_incipit_needs_revision: Incipit muss überarbeitet werden
