@@ -892,6 +892,7 @@ fr:
     watermark_description: Filigrane
     woodwinds: Bois
     work: Oeuvre
+    work_catalog_note: Work catalog note
     work_number: Numéro de l'œuvre
     work_tag: Étiquette de révision
     work_tag_incipit_needs_revision: incipit-needs-revision
