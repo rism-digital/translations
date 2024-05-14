@@ -892,7 +892,7 @@ it:
     watermark_description: Filigrana
     woodwinds: Legni
     work: Opera
-    work_catalog_note: Work catalog note
+    work_catalog_note: Nota sul catalogo delle opere
     work_number: Numero dell'opera
     work_tag: Tag per il Work
     work_tag_incipit_needs_revision: incipit-needs-revision
@@ -912,6 +912,15 @@ it:
     P60274: "Arrangiato come"
     P60194: "Inserto in"
     P60183: "Inserto"
+  relations_works:
+    P60250: "Has derivative"
+    P60305: "Has source"
+    P60216: "Is expanded as"
+    P60294: "Is expanded version of"
+    P60274: "Is arranged as"
+    P60242: "Is arragement of"
+    P60198: "Is complemented by"
+    P60313: "Undefined"
   verovio:
     position: "Posizione"
     warning: "Attenzione"
