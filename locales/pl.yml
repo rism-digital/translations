@@ -914,13 +914,13 @@ pl:
     P60183: "Wstawić"
   relations_works:
     P60250: "Posiada derywatywę"
-    P60305: "Has source"
+    P60305: "Posiada źródło"
     P60216: "Jest rozszerzony jako"
     P60294: "Jest rozszerzoną wersją"
-    P60274: "Is arranged as"
-    P60242: "Is arragement of"
-    P60198: "Is complemented by"
-    P60313: "Undefined"
+    P60274: "Jest zaaranżowane jako"
+    P60242: "Jest aranżacją"
+    P60198: "Jest uzupełnione o"
+    P60313: "Nieokreślony"
   verovio:
     position: "Pozycja"
     warning: "Uwaga"
