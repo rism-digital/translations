@@ -990,6 +990,7 @@ fr:
     ERR_063_LIGATURE_PITCH: Une ligature ne peut pas avoir deux notes consécutives avec la même hauteur.
     ERR_064_LIGATURE_DURATION: La durée dans une ligature ne peut pas être plus courte qu'une semi-brève.
     ERR_065_MREST_INVALID_MEASURE: Une mesure avec une pause ne peut pas inclure autre chose.
+    ERR_066_EMPTY_CONTAINER: A grace group or a beam cannot be empty.
   rism_online:
     manuscript: "Manuscrit"
     printed: "Imprimé"
