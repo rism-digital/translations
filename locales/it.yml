@@ -990,6 +990,7 @@ it:
     ERR_063_LIGATURE_PITCH: Una legatura non può avere due note consecutive con la stessa altezza.
     ERR_064_LIGATURE_DURATION: La durata di una legatura non può essere inferiore a una semibreve.
     ERR_065_MREST_INVALID_MEASURE: Una battuta con una pausa per l'intera battuta non può includere altro.
+    ERR_066_EMPTY_CONTAINER: A grace group or a beam cannot be empty.
   rism_online:
     manuscript: "Manoscritto"
     printed: "A stampa"
