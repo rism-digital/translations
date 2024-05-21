@@ -990,6 +990,7 @@ ko:
     ERR_063_LIGATURE_PITCH: A ligature cannot have two consecutive notes with the same pitch.
     ERR_064_LIGATURE_DURATION: The duration in a ligature cannot be shorter than a semibreve.
     ERR_065_MREST_INVALID_MEASURE: A measure with a measure rest cannot include anything else.
+    ERR_066_EMPTY_CONTAINER: A grace group or a beam cannot be empty.
   rism_online:
     manuscript: "Manuscript"
     printed: "Printed"
