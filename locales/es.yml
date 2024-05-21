@@ -990,6 +990,7 @@ es:
     ERR_063_LIGATURE_PITCH: Una ligadura no puede tener dos notas consecutivas en el mismo tono.
     ERR_064_LIGATURE_DURATION: La duración de una ligadura no puede ser mas corta que una semibreve.
     ERR_065_MREST_INVALID_MEASURE: Un compás con un compás de silencio no puede incluir algo más.
+    ERR_066_EMPTY_CONTAINER: A grace group or a beam cannot be empty.
   rism_online:
     manuscript: "Manuscrito"
     printed: "Impreso"
