@@ -990,7 +990,7 @@ de:
     ERR_063_LIGATURE_PITCH: Eine Ligatur kann nicht zwei aufeinander folgende Noten mit derselben Tonhöhe haben.
     ERR_064_LIGATURE_DURATION: Die Dauer einer Ligatur kann nicht kürzer als eine Semibrevis sein.
     ERR_065_MREST_INVALID_MEASURE: Ein Takt Pause kann nichts anderes enthalten.
-    ERR_066_EMPTY_CONTAINER: A grace group or a beam cannot be empty.
+    ERR_066_EMPTY_CONTAINER: Zwischen den Sonderzeichen für Gruppen von Vorschlagsnoten oder Balken müssen Noten stehen.
   rism_online:
     manuscript: "Handschrift"
     printed: "Gedruckt"
