@@ -892,6 +892,7 @@ de:
     watermark_description: Wasserzeichen
     woodwinds: Holzblasinstrumente
     work: Werktitel
+    work_catalog_note: Bemerkung Werkverzeichnis
     work_number: Werknummer
     work_tag: Markierung der Werk-Revision
     work_tag_incipit_needs_revision: Incipit muss überarbeitet werden
@@ -911,6 +912,15 @@ de:
     P60274: "Bearbeitung als"
     P60194: "Einfügen in"
     P60183: "Einfügen"
+  relations_works:
+    P60250: "Has derivative"
+    P60305: "Has source"
+    P60216: "Is expanded as"
+    P60294: "Is expanded version of"
+    P60274: "Is arranged as"
+    P60242: "Is arragement of"
+    P60198: "Is complemented by"
+    P60313: "Undefined"
   verovio:
     position: "Standort"
     warning: "Warnung"
@@ -980,6 +990,7 @@ de:
     ERR_063_LIGATURE_PITCH: Eine Ligatur kann nicht zwei aufeinander folgende Noten mit derselben Tonhöhe haben.
     ERR_064_LIGATURE_DURATION: Die Dauer einer Ligatur kann nicht kürzer als eine Semibrevis sein.
     ERR_065_MREST_INVALID_MEASURE: Ein Takt Pause kann nichts anderes enthalten.
+    ERR_066_EMPTY_CONTAINER: Zwischen den Sonderzeichen für Gruppen von Vorschlagsnoten oder Balken müssen Noten stehen.
   rism_online:
     manuscript: "Handschrift"
     printed: "Gedruckt"
