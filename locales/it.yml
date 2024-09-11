@@ -525,8 +525,8 @@ it:
     holdings_location: Informazioni sul fondo
     identification_status: Identification status
     identified_manuscript: Identified manuscript
-    identified_holding: Identified holding
-    identified_work: Identified work
+    identified_holding: Esemplare identificato
+    identified_work: Composizione identificata
     identity: Identità
     identity_area: Identità
     iiif_manifest: "IIIF manifest (fonte digitale)"
@@ -552,8 +552,8 @@ it:
     internal_note: Nota interna
     introduction: Introduzione
     invalid_standard_number: Numero standard o codice standard annullato/non valido
-    inventory_item: Inventory item
-    inventory_source: Inventory source
+    inventory_item: Voce d'inventario
+    inventory_source: Inventario
     isbn: ISBN
     ismn: ISMN
     issn: ISSN
