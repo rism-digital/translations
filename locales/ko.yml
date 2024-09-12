@@ -573,6 +573,7 @@ ko:
     language_of_cataloging: Language of cataloging
     language_original_text: Language of original text
     language_text: Language of text
+    later_entry: Later entry
     later_heading: Later heading
     latitude: Latitude
     leader: Leader
