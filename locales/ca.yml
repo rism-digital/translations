@@ -555,6 +555,7 @@ ca:
     internal_note: Nota interna
     introduction: Introducció
     invalid_standard_number: Número o codi estàndard cancel·lat/invàlid
+    inventory: Inventory
     inventory_item: Inventory item
     inventory_source: Inventory source
     isbn: ISBN
