@@ -525,8 +525,10 @@ it:
     heading_personal_name1: Nome di persona
     help_transposing_instruments: Tabella degli strumenti traspositori
     history_institution: Storia dell'ente
+    holding: Holding
     holdings_location: Informazioni sul fondo
     identification_status: Identification status
+    identified: Identified
     identified_holding: Esemplare identificato
     identified_source: Identified source
     identified_work: Composizione identificata
@@ -752,6 +754,7 @@ it:
     plate_number: Numero della lastra
     plucked_instruments: Strumenti a pizzico
     possible_autograph_manuscript: Possibile manoscritto autografo
+    possibly_identified: Possibly identified
     postal_code: Codice postale
     postal_place: Luogo postale
     preceding_entry: Notizia precedente
