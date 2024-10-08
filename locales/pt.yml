@@ -525,8 +525,10 @@ pt:
     heading_personal_name1: Título-Nome de pessoa
     help_transposing_instruments: Ajuda para instrumentos transpositores
     history_institution: História da instituição
+    holding: Holding
     holdings_location: Informação sobre o fundo
     identification_status: Identification status
+    identified: Identified
     identified_holding: Identified holding
     identified_source: Identified source
     identified_work: Identified work
@@ -752,6 +754,7 @@ pt:
     plate_number: Número de chapa
     plucked_instruments: Cordas dedilhadas
     possible_autograph_manuscript: Possível manuscrito autógrafo
+    possibly_identified: Possibly identified
     postal_code: Código postal
     postal_place: Local postal
     preceding_entry: Registro precedente
