@@ -525,10 +525,12 @@ pl:
     heading_personal_name1: Nagłówek – nazwisko
     help_transposing_instruments: Pomoc przy transpozycji instrumentów
     history_institution: Historia instytucji
+    holding: Egzemplarz
     holdings_location: Pola egzemplarza, lokalizacji itp.
     identification_status: Status identyfikacji
+    identified: Zidentyfikowane
     identified_holding: Zidentyfikowany egzemplarz
-    identified_source: Identified source
+    identified_source: Zidentyfikowane źródło
     identified_work: Zidentyfikowane Dzieło
     identity: Tożsamość
     identity_area: Obszar tożsamości
@@ -752,6 +754,7 @@ pl:
     plate_number: Numer wydawniczy
     plucked_instruments: Instrumenty szarpane
     possible_autograph_manuscript: Prawdopodobnie autograf
+    possibly_identified: Prawdopodobnie zidentyfikowane
     postal_code: Kod pocztowy
     postal_place: Rejon pocztowy
     preceding_entry: Poprzedzający wpis
