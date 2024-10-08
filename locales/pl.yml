@@ -527,8 +527,8 @@ pl:
     history_institution: Historia instytucji
     holdings_location: Pola egzemplarza, lokalizacji itp.
     identification_status: Status identyfikacji
-    identified_manuscript: Zidentyfikowany rękopis
     identified_holding: Zidentyfikowany egzemplarz
+    identified_source: Identified source
     identified_work: Zidentyfikowane Dzieło
     identity: Tożsamość
     identity_area: Obszar tożsamości

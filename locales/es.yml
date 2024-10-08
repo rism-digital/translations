@@ -527,8 +527,8 @@ es:
     history_institution: Historia de la institución
     holdings_location: Campos de los ejemplares y su ubicación
     identification_status: Identification status
-    identified_manuscript: Identified manuscript
     identified_holding: Identified holding
+    identified_source: Identified source
     identified_work: Identified work
     identity: Identidad
     identity_area: Identidad

@@ -527,8 +527,8 @@ de:
     history_institution: Geschichte der Körperschaft
     holdings_location: Bestandsdaten
     identification_status: Status der Identifikation
-    identified_manuscript: Identifiziertes Manuskript
     identified_holding: Identifizierter Exemplareintrag
+    identified_source: Identified source
     identified_work: Identifiziertes Werk
     identity: Identifizierung
     identity_area: Identity area
