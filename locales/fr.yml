@@ -146,12 +146,13 @@ fr:
     austria_tyrol: 'Autriche: Tyrol'
     austria_upper_austria: 'Autriche: Haute-Autriche'
     austria_vienna: 'Autriche: Vienne'
-    azerbiajan: Azerbaïdjan
+    azerbaijan: Azerbaïdjan
     bangladesh: Bangladesh
     belarus: Bélarus
     belgium: Belgique
     benin: Benin
     bolivia: Bolivie
+    bosnia_and_herzegovina: Bosnie-Herzégovine
     bosnia_herzegovina: Bosnie-Herzégovine
     brazil: Brésil
     bulgaria: Bulgarie
@@ -194,9 +195,9 @@ fr:
     japan: Japon
     korea: Corée, République de
     latvia: Lettonie
+    lebanon: Liban
     liechtenstein: Liechtenstein
     lithuania: Lituanie
-    lebanon: Liban
     luxembourg: Luxembourg
     malta: Malte
     mexico: Mexique
@@ -219,6 +220,7 @@ fr:
     puerto_rico: Puerto Rico
     romania: Romanie
     russian_federation: Fédération russe
+    san_marino: San Marino
     saudi_arabia: Arabie Saoudite
     serbia: Serbie
     slovakia: Slovaquie
