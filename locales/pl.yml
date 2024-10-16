@@ -146,12 +146,13 @@ pl:
     austria_tyrol: 'Austria: Tyrol'
     austria_upper_austria: 'Austria: Górna Austria'
     austria_vienna: 'Austria: Wiedeń'
-    azerbiajan: Azerbejdżan
+    azerbaijan: Azerbejdżan
     bangladesh: Bangladesz
     belarus: Białoruś
     belgium: Belgia
     benin: Benin
     bolivia: Boliwia
+    bosnia_and_herzegovina: Bośnia i Hercegowina
     bosnia_herzegovina: Bośnia i Hercegowina
     brazil: Brazylia
     bulgaria: Bułgaria
@@ -194,9 +195,9 @@ pl:
     japan: Japonia
     korea: Korea, Republika
     latvia: Łotwa
+    lebanon: Liban
     liechtenstein: Liechtenstein
     lithuania: Litwa
-    lebanon: Liban
     luxembourg: Luksemburg
     malta: Malta
     mexico: Meksyk
@@ -219,6 +220,7 @@ pl:
     puerto_rico: Portoryko
     romania: Rumunia
     russian_federation: Federacja Rosyjska
+    san_marino: San Marino
     saudi_arabia: Arabia Saudyjska
     serbia: Serbia
     slovakia: Słowacja
@@ -557,8 +559,8 @@ pl:
     introduction: Wprowadzenie
     invalid_standard_number: Anulowany/nieważny numer standardowy lub kod
     inventory: Inwentarz
-    inventory_item: Inventory item
-    inventory_source: Inventory source
+    inventory_item: Indywidualny wpis pozycji w inwentarzu
+    inventory_source: Źródło inwentarz
     isbn: ISBN
     ismn: ISMN
     issn: ISSN
