@@ -914,6 +914,7 @@ es:
     woodwinds: Vientos-madera
     work: Obra
     work_catalog_note: Nota del catálogo de trabajo
+    work_node: Work node
     work_number: Número de obra
     work_tag: Etiqueta de revisión de trabajo
     work_tag_incipit_needs_revision: incipit-needs-revision
