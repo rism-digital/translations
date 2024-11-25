@@ -727,6 +727,7 @@ it:
     partial_autograph: Autografo parziale
     parts_held: Parti staccate esistenti
     parts_held_extent: Parti staccate, estensione
+    part_of_title: Part of title
     patron: Committente
     people: Persone
     people_institutions: Persone ed istituzioni
