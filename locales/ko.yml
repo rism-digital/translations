@@ -914,6 +914,7 @@ ko:
     woodwinds: Woodwinds
     work: Work
     work_catalog_note: Work catalog note
+    work_node: Work node
     work_number: Work number
     work_tag: Work revision tag
     work_tag_incipit_needs_revision: incipit-needs-revision
