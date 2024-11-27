@@ -463,6 +463,7 @@ pt:
     external_resource: Recurso externo
     external_resource_uri: Recurso externo URI
     external_resource_url: Recurso externo URL
+    external_work_reference: External work reference
     f_major: Fá maior
     f_minor: Fá menor
     f_minus_1: F-1
