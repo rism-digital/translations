@@ -915,7 +915,7 @@ fr:
     woodwinds: Bois
     work: Oeuvre
     work_catalog_note: Note sur le catalogue des œuvres
-    work_node: Work node
+    work_node: External work reference (Work node)
     work_number: Numéro de l'œuvre
     work_tag: Étiquette de révision
     work_tag_incipit_needs_revision: incipit-needs-revision
