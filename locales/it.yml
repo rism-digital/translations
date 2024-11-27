@@ -915,7 +915,7 @@ it:
     woodwinds: Legni
     work: Opera
     work_catalog_note: Nota sul catalogo delle opere
-    work_node: Work node
+    work_node: External work reference (Work node)
     work_number: Numero dell'opera
     work_tag: Tag per il Work
     work_tag_incipit_needs_revision: incipit-needs-revision
