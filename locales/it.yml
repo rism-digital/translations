@@ -463,7 +463,7 @@ it:
     external_resource: Localizzazione e accesso elettronico
     external_resource_uri: URI per l'accesso elettronico
     external_resource_url: URL per l'accesso elettronico
-    external_work_reference: External work reference
+    external_work_reference: Voce di autorità esterna
     f_major: Fa maggiore
     f_minor: Fa minore
     f_minus_1: F-1
@@ -915,7 +915,7 @@ it:
     woodwinds: Legni
     work: Opera
     work_catalog_note: Nota sul catalogo delle opere
-    work_node: External work reference (Work node)
+    work_node: Voce di autorità esterna (Work node)
     work_number: Numero dell'opera
     work_tag: Tag per il Work
     work_tag_incipit_needs_revision: incipit-needs-revision
