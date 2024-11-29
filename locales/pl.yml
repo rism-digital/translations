@@ -463,7 +463,7 @@ pl:
     external_resource: Zasób zewnętrzny
     external_resource_uri: URI zasobu zewnętrznego
     external_resource_url: URL zasobu zewnętrznego
-    external_work_reference: External work reference
+    external_work_reference: Odniesienie do Dzieła zewnętrznego
     f_major: F-dur
     f_minor: f-moll
     f_minus_1: F-1
@@ -915,7 +915,7 @@ pl:
     woodwinds: Instrumenty dęte drewniane
     work: Dzieło
     work_catalog_note: Notatka do katalogu utworów
-    work_node: External work reference (Work node)
+    work_node: Odniesienie do Dzieła zewnętrznego (Work node)
     work_number: Numer dzieła
     work_tag: tag edycji Dzieła
     work_tag_incipit_needs_revision: incipit wymaga ponownego sprawdzenia
