@@ -349,6 +349,7 @@ ca:
     cataloging_musical_sources: Catalogació de fonts musicals
     cataloging_source: Font de la catalogació
     category: Categoria
+    category_section: Category/Section
     censor: Censor
     cf_major: Do♭ major
     cf_minor: Do♭ menor
@@ -562,6 +563,7 @@ ca:
     invalid_standard_number: Número o codi estàndard cancel·lat/invàlid
     inventory: Inventari
     inventory_item: Exemplar de l'inventari
+    inventory_number: Inventory number
     inventory_source: Font de l'inventari
     isbn: ISBN
     ismn: ISMN
@@ -782,6 +784,7 @@ ca:
     qualifying_information: Informació qualificada
     range_dates: Interval de dates
     real_world_object_uri: URI d'objecte del món real
+    reconstructed_title: Reconstructed title
     record_actions: Accions al registre
     record_audit: Validació del registre
     record_origin: Origen del registre
