@@ -349,7 +349,7 @@ pt:
     cataloging_musical_sources: Catalogando fontes musicais
     cataloging_source: Agência catalogadora
     category: Categoria
-    category_section: Category/Section
+    category_section: Categoria/Seção
     censor: Censor
     cf_major: Dó bemol maior
     cf_minor: Dó bemol menor
@@ -563,7 +563,7 @@ pt:
     invalid_standard_number: Número ou código padrão cancelado/invalido
     inventory: Inventário
     inventory_item: Item de inventário
-    inventory_number: Inventory number
+    inventory_number: Número do inventário
     inventory_source: Fonte do inventário
     isbn: ISBN
     ismn: ISMN
@@ -784,7 +784,7 @@ pt:
     qualifying_information: Informação sobre qualificação
     range_dates: Faixa de datas
     real_world_object_uri: URI de objeto do mundo real
-    reconstructed_title: Reconstructed title
+    reconstructed_title: Título reconstruído
     record_actions: Ações do registro
     record_audit: Verificação do registo
     record_origin: Origem do registro
