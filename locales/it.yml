@@ -349,6 +349,7 @@ it:
     cataloging_musical_sources: Catalogazione delle fonti musicali
     cataloging_source: Fonte della catalogazione
     category: Tipo
+    category_section: Category/Section
     censor: Censore
     cf_major: Do♭ maggiore
     cf_minor: Do♭ minore
@@ -562,6 +563,7 @@ it:
     invalid_standard_number: Numero standard o codice standard annullato/non valido
     inventory: Inventario
     inventory_item: Voce d'inventario
+    inventory_number: Inventory number
     inventory_source: Inventario
     isbn: ISBN
     ismn: ISMN
@@ -782,6 +784,7 @@ it:
     qualifying_information: Informazioni qualificanti
     range_dates: Ambito di datazione
     real_world_object_uri: Oggetto URI
+    reconstructed_title: Reconstructed title
     record_actions: Azioni per la scheda
     record_audit: Controllo del record
     record_origin: Origine della scheda
