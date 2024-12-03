@@ -349,6 +349,7 @@ pl:
     cataloging_musical_sources: Katalogowanie źródeł muzycznych
     cataloging_source: Katalogowanie źródła
     category: Kategoria
+    category_section: Category/Section
     censor: Cenzor
     cf_major: Ces-dur
     cf_minor: ces-moll
@@ -562,6 +563,7 @@ pl:
     invalid_standard_number: Anulowany/nieważny numer standardowy lub kod
     inventory: Inwentarz
     inventory_item: Indywidualny wpis pozycji w inwentarzu
+    inventory_number: Inventory number
     inventory_source: Źródło inwentarz
     isbn: ISBN
     ismn: ISMN
@@ -782,6 +784,7 @@ pl:
     qualifying_information: Informacje kwalifikacyjne
     range_dates: Zakres dat
     real_world_object_uri: Identyfikator URI
+    reconstructed_title: Reconstructed title
     record_actions: Działania na rekordzie
     record_audit: Kontrola rekordu
     record_origin: Pochodzenie rekordu
