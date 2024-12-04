@@ -349,7 +349,7 @@ it:
     cataloging_musical_sources: Catalogazione delle fonti musicali
     cataloging_source: Fonte della catalogazione
     category: Tipo
-    category_section: Category/Section
+    category_section: Categoria/sezione
     censor: Censore
     cf_major: Do♭ maggiore
     cf_minor: Do♭ minore
@@ -563,7 +563,7 @@ it:
     invalid_standard_number: Numero standard o codice standard annullato/non valido
     inventory: Inventario
     inventory_item: Voce d'inventario
-    inventory_number: Inventory number
+    inventory_number: Numero nell'inventario
     inventory_source: Inventario
     isbn: ISBN
     ismn: ISMN
