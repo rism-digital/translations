@@ -280,8 +280,8 @@ pt:
     alternate_spelling: Ortografia alternativa
     alternative_work_title: Título alternativo da obra
     amount: Número
-    annex: Annex
-    appendix: Appendix
+    annex: Anexo
+    appendix: Apêndice
     archive: Arquivo
     arrangement: Arranjo
     arrangement_statement: Menção de arranjo
@@ -832,7 +832,7 @@ pt:
     series: Séries
     series_added_entry: Informação secundária sobre título superordenado
     series_statement: Campos de declaração da série
-    section: Section
+    section: Seção
     shelfmark: Código
     shelfmark_olim: Código antiguo (olim)
     short_title: Título abreviado
