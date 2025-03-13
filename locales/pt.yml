@@ -678,6 +678,7 @@ pt:
     name_family: Nome da família
     name_of_part: Nome da parte/seção da obra
     name_printer: Nome do impressor
+    name_titles_words: Titles and words associated with a name
     name_variant: Variante de nome
     name_variants: Variantes de nome
     named_dramatic_roles: Papéis dramáticos identificados
@@ -780,6 +781,7 @@ pt:
     production: Produção
     production_personnel: Pessoal da produção
     profession_or_function: Profissão ou função
+    project_url: Project URL
     provenance: Proveniência
     provenance_notes: Nota de proveniência
     pseudonym: Pseudónimo

@@ -678,6 +678,7 @@ pl:
     name_family: Nazwa rodziny
     name_of_part: Nazwa części/sekcji utworu
     name_printer: Nazwa drukarni
+    name_titles_words: Titles and words associated with a name
     name_variant: Alternatywna nazwa osoby
     name_variants: Alternatywne nazwy osoby
     named_dramatic_roles: Postaci
@@ -780,6 +781,7 @@ pl:
     production: Produkcja
     production_personnel: Personel produkcyjny
     profession_or_function: Zawód lub funkcja
+    project_url: Project URL
     provenance: Pochodzenie
     provenance_notes: Uwaga o proweniencji
     pseudonym: Pseudonim
