@@ -778,6 +778,7 @@ pl:
     print_with_non_autograph_annotations: Druk z adnotacjami nieautorskimi
     printer: Drukarnia
     printing_technique: Technika druku
+    private_collection: Private collection
     production: Produkcja
     production_personnel: Personel produkcyjny
     profession_or_function: Zawód lub funkcja
