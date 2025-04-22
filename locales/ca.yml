@@ -778,6 +778,7 @@ ca:
     print_with_non_autograph_annotations: Imprès amb anotacions no autògrafes
     printer: Impressor
     printing_technique: Tècnica d'impressió
+    private_collection: Private collection
     production: Producció
     production_personnel: Personal de producció
     profession_or_function: Professió o funció
