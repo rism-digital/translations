@@ -493,7 +493,7 @@ pt:
     first_second_group: Primeiro/Segundo grupo
     form_subdivision: Divisão da forma
     format_extent: Formato, extensão
-    former_sigla: Antiga sigla
+    former_sigla: Former siglum
     former_owner: Proprietário anterior
     fragments: Fragmentos
     fs_major: Fá sustenido maior
@@ -930,6 +930,7 @@ pt:
     watermark_description: Descrição de Marca de água
     woodwinds: Madeiras
     work: Obra
+    work_catalog: Work catalog
     work_catalog_note: Nota no catálogo da obra
     work_list: Lista de obras
     work_node: Referência externa de obra (Work Node)
@@ -958,7 +959,7 @@ pt:
     P60216: "É expandido como"
     P60294: "É a versão expandida de"
     P60274: "Arranjado como"
-    P60242: "Is arragenment of"
+    P60242: "Is arrangement of"
     P60198: "É complementado por"
     P60313: "Indefinido"
   verovio:
