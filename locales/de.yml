@@ -930,6 +930,7 @@ de:
     watermark_description: Wasserzeichen
     woodwinds: Holzblasinstrumente
     work: Werk
+    work_catalog: Work catalog
     work_catalog_note: Bemerkung Werkverzeichnis
     work_list: Werkliste
     work_node: Externe Werk-Referenz (Work node)

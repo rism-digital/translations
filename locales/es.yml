@@ -493,7 +493,7 @@ es:
     first_second_group: Primero/segundo grupo
     form_subdivision: Subdivisión de forma
     format_extent: Formato, extensión
-    former_sigla: Clave anterior
+    former_sigla: Former siglum
     former_owner: Propietario anterior
     fragments: Fragmentos
     fs_major: Fa sostenido Mayor
@@ -930,6 +930,7 @@ es:
     watermark_description: Descripción de las filigranas
     woodwinds: Vientos-madera
     work: Obra
+    work_catalog: Work catalog
     work_catalog_note: Nota del catálogo de trabajo
     work_list: Lista de obras
     work_node: Referencia de trabajo externo (nodo de trabajo)
