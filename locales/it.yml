@@ -493,7 +493,7 @@ it:
     first_second_group: Primo/Secondo gruppo
     form_subdivision: Suddivisione formale
     format_extent: Categoria di fonte, estensione
-    former_sigla: Sigle obsolete
+    former_sigla: Sigla obsoleta
     former_owner: Proprietario precedente
     fragments: Frammenti
     fs_major: Fa♯ maggiore
@@ -930,6 +930,7 @@ it:
     watermark_description: Filigrana
     woodwinds: Legni
     work: Opera
+    work_catalog: Work catalog
     work_catalog_note: Nota sul catalogo delle opere
     work_list: Lista di opere
     work_node: Voce di autorità esterna (Work node)
@@ -958,7 +959,7 @@ it:
     P60216: "Estesa come"
     P60294: "Versione estesa di"
     P60274: "Arrangiata come"
-    P60242: "Is arragenment of"
+    P60242: "Is arrangement of"
     P60198: "Complementare a"
     P60313: "Relazione indefinita"
   verovio:
