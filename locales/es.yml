@@ -931,6 +931,7 @@ es:
     woodwinds: Vientos-madera
     work: Obra
     work_catalog: Work catalog
+    work_catalogs: Work catalogs
     work_catalog_note: Nota del catálogo de trabajo
     work_list: Lista de obras
     work_node: Referencia de trabajo externo (nodo de trabajo)
