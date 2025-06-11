@@ -930,6 +930,7 @@ pl:
     watermark_description: Opis znaku wodnego
     woodwinds: Instrumenty dęte drewniane
     work: Dzieło
+    work_catalog: Work catalog
     work_catalog_note: Notatka do katalogu utworów
     work_list: Lista Dzieł
     work_node: Odniesienie do Dzieła zewnętrznego (Work node)
@@ -958,7 +959,7 @@ pl:
     P60216: "Jest rozszerzony jako"
     P60294: "Jest rozszerzoną wersją"
     P60274: "Jest zaaranżowane jako"
-    P60242: "Is arragenment of"
+    P60242: "Is arrangement of"
     P60198: "Jest uzupełnione o"
     P60313: "Nieokreślony"
   verovio:
