@@ -931,6 +931,7 @@ ko:
     woodwinds: Woodwinds
     work: Work
     work_catalog: Work catalog
+    work_catalogs: Work catalogs
     work_catalog_note: Work catalog note
     work_list: Work list
     work_node: External work reference (Work node)

@@ -931,6 +931,7 @@ fr:
     woodwinds: Bois
     work: Oeuvre
     work_catalog: Work catalog
+    work_catalogs: Work catalogs
     work_catalog_note: Note sur le catalogue des œuvres
     work_list: Liste des œuvres
     work_node: Référence externe d'œuvre (Work node)
