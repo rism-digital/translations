@@ -493,7 +493,7 @@ fr:
     first_second_group: Premier/deuxième groupe de caractères
     form_subdivision: Subdivision de forme
     format_extent: Type de source, extension
-    former_sigla: Ancien sigle
+    former_sigla: Former siglum
     former_owner: Propriétaire précédent
     fragments: Fragments
     fs_major: Fa♯ majeur
@@ -930,6 +930,7 @@ fr:
     watermark_description: Filigrane
     woodwinds: Bois
     work: Oeuvre
+    work_catalog: Work catalog
     work_catalog_note: Note sur le catalogue des œuvres
     work_list: Liste des œuvres
     work_node: Référence externe d'œuvre (Work node)
@@ -958,7 +959,7 @@ fr:
     P60216: "Est élargi comme"
     P60294: "Est la version étendue de"
     P60274: "Est arrangé comme"
-    P60242: "Is arragenment of"
+    P60242: "Is arrangement of"
     P60198: "Est complété par"
     P60313: "Indéfini"
   verovio:
