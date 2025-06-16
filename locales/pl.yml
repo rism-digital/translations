@@ -930,8 +930,8 @@ pl:
     watermark_description: Opis znaku wodnego
     woodwinds: Instrumenty dęte drewniane
     work: Dzieło
-    work_catalog: Work catalog
-    work_catalogs: Work catalogs
+    work_catalog: Katalog dzieł
+    work_catalogs: Katalogi dzieł
     work_catalog_note: Notatka do katalogu utworów
     work_list: Lista Dzieł
     work_node: Odniesienie do Dzieła zewnętrznego (Work node)
