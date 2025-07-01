@@ -545,6 +545,7 @@ en:
     identity_area: Identity area
     iiif_manifest: "IIIF manifest (digitized source)"
     iiif_manifest_other: "IIIF manifest (other)"
+    iiif_manifest_nothing_more: IIIF manifest
     illustrator: Illustrator
     immediate_parent_body: Immediate parent body
     import: Import
@@ -731,6 +732,7 @@ en:
     other_instruments: Other instruments
     other_life_dates: Other life dates
     other_physical_details: Other physical details
+    other_resource: Other resource
     other_searchform: Other Searchform
     other_shelfmark: Other shelfmark
     other_standard_identifier: Other standard identifier
