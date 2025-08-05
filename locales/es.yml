@@ -973,10 +973,10 @@ es:
     P50010: Jerarquía subordinada
     P50012: Predecesor del cuerpo corporativo
     P50016: Sucesor del cuerpo corporativo
-    P50020: Founding family of corporate body
-    P50230: Corporate body member of corporate body
-    P50435: Corporate body member of family
-    P50301: Absorbed corporate body
+    P50020: Familia fundadora del cuerpo corporativo
+    P50230: Miembro del cuerpo corporativo del cuerpo corporativo
+    P50435: Miembro de la familia del cuerpo corporativo
+    P50301: Cuerpo corporativo absorbido
   verovio:
     position: "Posición"
     warning: "Advertencia"
