@@ -969,14 +969,14 @@ pl:
     P60198: "Jest uzupełnione o"
     P60313: "Nieokreślony"
   relations_institutions:
-    P50008: Hierarchical superior
-    P50010: Hierarchical subordinate
-    P50012: Predecessor of corporate body
-    P50016: Successor of corporate body
-    P50020: Founding family of corporate body
-    P50230: Corporate body member of corporate body
-    P50435: Corporate body member of family
-    P50301: Absorbed corporate body
+    P50008: Hierarchicznie przełożony
+    P50010: Hierarchicznie podwładny
+    P50012: Poprzednik organizacji
+    P50016: Następca organizacji
+    P50020: Rodzina założycieli organizacji
+    P50230: Członek organizacji
+    P50435: Członek rodziny, będący częścią organizacji
+    P50301: Wchłonięta organizacja
   verovio:
     position: "Pozycja"
     warning: "Uwaga"
