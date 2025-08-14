@@ -971,12 +971,12 @@ de:
   relations_institutions:
     P50008: Hierarchisch höher
     P50010: Hierarchisch untergeordnet
-    P50012: Predecessor of corporate body
-    P50016: Successor of corporate body
-    P50020: Founding family of corporate body
-    P50230: Corporate body member of corporate body
+    P50012: Vorgänger der Körperschaft
+    P50016: Nachfolger der Körperschaft
+    P50020: Gründerfamilie der Körperschaft
+    P50230: Körperschaftsmitglied der Körperschaft
     P50435: Corporate body member of family
-    P50301: Absorbed corporate body
+    P50301: Aufgenommene Körperschaft
   verovio:
     position: "Standort"
     warning: "Warnung"
