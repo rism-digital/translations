@@ -1047,6 +1047,12 @@ de:
     ERR_064_LIGATURE_DURATION: Die Dauer einer Ligatur kann nicht kürzer als eine Semibrevis sein.
     ERR_065_MREST_INVALID_MEASURE: Ein Takt Pause kann nichts anderes enthalten.
     ERR_066_EMPTY_CONTAINER: Zwischen den Sonderzeichen für Gruppen von Vorschlagsnoten oder Balken müssen Noten stehen.
+  work_catalogue:
+    not_work_catalogue: Not work catalog
+    work_catalogue_alternate: Alternate
+    work_catalogue_complete: Completed
+    work_catalogue_in_preparation: Eligible
+    work_catalogue_partial: Partially completed
   rism_online:
     manuscript: "Handschrift"
     printed: "Gedruckt"
