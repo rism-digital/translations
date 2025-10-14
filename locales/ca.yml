@@ -979,8 +979,8 @@ ca:
   relations_institutions:
     P50008: Superior jeràrquic
     P50010: Subordinat jeràrquic
-    P50012: Predecessor of corporate body
-    P50016: Successor of corporate body
+    P50012: Entitat anterior
+    P50016: Entitat posterior
     P50020: Founding family of corporate body
     P50230: Corporate body member of corporate body
     P50435: Corporate body member of family
@@ -1056,10 +1056,10 @@ ca:
     ERR_065_MREST_INVALID_MEASURE: Un compàs de silenci no pot incloure res més.
     ERR_066_EMPTY_CONTAINER: Un ornament o una barra d'unió entre notes no poden estar buides.
   work_catalogue:
-    not_work_catalogue: Not work catalog
+    not_work_catalogue: No és un catàleg d'obres
     work_catalogue_alternate: Alternatiu
     work_catalogue_complete: Completat
-    work_catalogue_in_preparation: Eligible
+    work_catalogue_in_preparation: Elegible
     work_catalogue_partial: En curs
   rism_online:
     manuscript: "Manuscrit"
