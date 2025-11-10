@@ -453,6 +453,7 @@ en:
     e_major: E major
     e_minor: E minor
     earlier_heading: Earlier heading
+    easternmost_longitude: Easternmost longitude
     ecclesiastical_modes: Ecclesiastical modes
     edition: Edition
     edition_imprint_fields: Edition, imprint, etc. fields
@@ -697,6 +698,7 @@ en:
     nickname: Nickname
     no_linguistic_content: No linguistic content
     non_migrated_bound: Non-migrated bound with value from 563
+    northernmost_latitude: Northernmost latitude
     not_applicable: Not applicable
     notated_music: Notated music
     note: Note
@@ -862,6 +864,7 @@ en:
     sketches: Sketches
     solo_voice: Solo voice
     soloist_instrument: Soloist instrument
+    southernmost_latitude: Southernmost latitude
     source: Source
     sources: Sources
     source_data_found: Source data found
@@ -944,6 +947,7 @@ en:
     voice_instrument: Voice/instrument
     volume_year_page: Volume, year, page
     watermark_description: Watermark description
+    westernmost_longitude: Westernmost longitude
     woodwinds: Woodwinds
     work: Work
     work_catalog: Work catalog
