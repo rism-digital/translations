@@ -285,6 +285,7 @@ ca:
     aids: Assistència
     alleged: Suposat
     alternate_spelling: Ortografia alternativa
+    alternate_geographic_name: Alternate geographic name
     alternative_work_title: Títol alternatiu
     amount: Número
     annex: Annex
@@ -531,6 +532,7 @@ ca:
     general_note_incipits: Nota general per als íncipits musicals
     general_note_institution: Nota general
     general_note_personal: Nota general
+    geographic_area_code: Geographic area code
     geographic_name: Nom geogràfic
     geographic_subdivision: Subdivisió geogràfica
     gf_major: Sol♭ major
@@ -597,6 +599,7 @@ ca:
     language_libretto: Llengua del llibret
     language_note: Nota de llengua
     language_of_cataloging: Llengua de catalogació
+    language_of_name: Language of name
     language_original_text: Idioma del text original
     language_text: Llengua del text
     later_entry: Entrada posterior
@@ -624,6 +627,7 @@ ca:
     local_note_field: Nota local
     local_notes_field: Notes locals
     local_number: Número local
+    local_rism_code_for_country: Local RISM code for country / city / town
     location: Lloc
     location_and_address: Lloc i adreça
     location_insertion: Ubicació de la inserció
@@ -832,6 +836,7 @@ ca:
     relation: Relació
     relations: Relacions
     relationship: Relació
+    relationship_code: Relationship code
     relationship_designation: Designació de la relació al $i o $4
     relationship_information: Informació de la relació
     religious_name: Nom religiós
