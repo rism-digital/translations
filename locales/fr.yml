@@ -453,6 +453,7 @@ fr:
     e_major: Mi majeur
     e_minor: Mi mineur
     earlier_heading: Rubrique précédente
+    easternmost_longitude: Easternmost longitude
     ecclesiastical_modes: Modes ecclésiastiques
     edition: Edition
     edition_imprint_fields: Champs pour les données d'édition
@@ -697,6 +698,7 @@ fr:
     nickname: Surnom
     no_linguistic_content: Sans contenu linguistique
     non_migrated_bound: Non-migrated bound with value from 563
+    northernmost_latitude: Northernmost latitude
     not_applicable: Non applicable
     notated_music: Musique notée
     note: Note
@@ -859,6 +861,7 @@ fr:
     sketches: Esquisses
     solo_voice: Voix seule
     soloist_instrument: Instrument soliste
+    southernmost_latitude: Southernmost latitude
     source: Source
     sources: Sources
     source_data_found: Source des données
@@ -941,6 +944,7 @@ fr:
     voice_instrument: Voix/instrument
     volume_year_page: Volume, année, page
     watermark_description: Filigrane
+    westernmost_longitude: Westernmost longitude
     woodwinds: Bois
     work: Oeuvre
     work_catalog: Catalogue des œuvres
