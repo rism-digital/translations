@@ -453,6 +453,7 @@ ca:
     e_major: Mi major
     e_minor: Mi menor
     earlier_heading: Encapçalament anterior
+    easternmost_longitude: Easternmost longitude
     ecclesiastical_modes: Modes eclesiàstics
     edition: Edició
     edition_imprint_fields: Peu d'impremta
@@ -697,6 +698,7 @@ ca:
     nickname: Pseudònim
     no_linguistic_content: Sense contingut lingüístic
     non_migrated_bound: Non-migrated bound with value from 563
+    northernmost_latitude: Northernmost latitude
     not_applicable: No aplicable
     notated_music: Música notada
     note: Nota
@@ -859,6 +861,7 @@ ca:
     sketches: Esbossos
     solo_voice: Veu solista
     soloist_instrument: Instrument solista
+    southernmost_latitude: Southernmost latitude
     source: Font
     sources: Fonts
     source_data_found: Font desconeguda
@@ -941,6 +944,7 @@ ca:
     voice_instrument: Veu/instrument
     volume_year_page: Volum, any, pàgina
     watermark_description: Descripció de la filigrana
+    westernmost_longitude: Westernmost longitude
     woodwinds: Vent-fusta
     work: Obra
     work_catalog: Catàleg de l'obra
