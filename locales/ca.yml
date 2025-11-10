@@ -932,6 +932,9 @@ ca:
     type_designer: Tipògraf
     type_institution: Tipus d'institució
     type_name_variant: Tipus de variant de nom
+    type_of_entity: Type of entity
+    type_of_entity_code: Type of entity code
+    type_of_entity_term: Type of entity term
     type_of_jurisdiction: Tipus de jurisdicció
     type_publication: Tipus de publicació
     type_relationship: Tipus de relació
