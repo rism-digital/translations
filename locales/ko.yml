@@ -285,6 +285,7 @@ ko:
     aids: Aids
     alleged: Alleged
     alternate_spelling: Alternate spelling
+    alternate_geographic_name: Alternate geographic name
     alternative_work_title: Alternative work title
     amount: Number
     annex: Annex
@@ -531,6 +532,7 @@ ko:
     general_note_incipits: General note for music incipit
     general_note_institution: General note
     general_note_personal: General note
+    geographic_area_code: Geographic area code
     geographic_name: Geographic name
     geographic_subdivision: Geographic subdivision
     gf_major: G♭ major
@@ -597,6 +599,7 @@ ko:
     language_libretto: Language of libretto
     language_note: Language note
     language_of_cataloging: Cataloging language
+    language_of_name: Language of name
     language_original_text: Language of original text
     language_text: Language of text
     later_entry: Later entry
@@ -624,6 +627,7 @@ ko:
     local_note_field: Local note field
     local_notes_field: Local notes field
     local_number: Local number
+    local_rism_code_for_country: Local RISM code for country / city / town
     location: Location
     location_and_address: Location and address
     location_insertion: Location of insertion
@@ -832,6 +836,7 @@ ko:
     relation: Relation
     relations: Relations
     relationship: Relationship
+    relationship_code: Relationship code
     relationship_designation: Relationship designation in $i or $4
     relationship_information: Relationship information
     religious_name: Religious name
