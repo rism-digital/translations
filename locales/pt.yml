@@ -285,6 +285,7 @@ pt:
     aids: Ajudas
     alleged: Suposta
     alternate_spelling: Ortografia alternativa
+    alternate_geographic_name: Alternate geographic name
     alternative_work_title: Título alternativo da obra
     amount: Número
     annex: Anexo
@@ -531,6 +532,7 @@ pt:
     general_note_incipits: Nota geral
     general_note_institution: Nota geral
     general_note_personal: Nota geral
+    geographic_area_code: Geographic area code
     geographic_name: Nome geográfico
     geographic_subdivision: Repartição geográfica
     gf_major: Sol bemol maior
@@ -597,6 +599,7 @@ pt:
     language_libretto: Idioma do libreto
     language_note: Nota de idioma
     language_of_cataloging: Idioma de catalogação
+    language_of_name: Language of name
     language_original_text: Idioma do texto original
     language_text: Idioma do texto
     later_entry: Entrada posterior
@@ -624,6 +627,7 @@ pt:
     local_note_field: Campo de nota local
     local_notes_field: Campo de nota local
     local_number: Número local
+    local_rism_code_for_country: Local RISM code for country / city / town
     location: Local
     location_and_address: Local e endereço
     location_insertion: Localização da inserção
@@ -832,6 +836,7 @@ pt:
     relation: Relação
     relations: Relacionamentos
     relationship: Relação
+    relationship_code: Relationship code
     relationship_designation: Designação da relação em $i ou $4
     relationship_information: Informação sobre a relação
     religious_name: Nome religioso
