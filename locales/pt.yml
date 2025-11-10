@@ -932,6 +932,9 @@ pt:
     type_designer: Tipógrafo
     type_institution: Tipo de instituição
     type_name_variant: Tipo de variante de nome
+    type_of_entity: Tipo de entidade
+    type_of_entity_code: Tipo de código da entidade
+    type_of_entity_term: Tipo de termo da entidade
     type_of_jurisdiction: Tipo de jurisdição
     type_publication: Tipo de publicação
     type_relationship: Tipo de relação
