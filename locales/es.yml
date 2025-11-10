@@ -932,9 +932,9 @@ es:
     type_designer: Fundidor
     type_institution: Tipo de institución
     type_name_variant: Tipo de variante de nombre
-    type_of_entity: Type of entity
-    type_of_entity_code: Type of entity code
-    type_of_entity_term: Type of entity term
+    type_of_entity: Tipo de entidad
+    type_of_entity_code: Tipo de código de entidad
+    type_of_entity_term: Tipo de término de entidad
     type_of_jurisdiction: Tipo de jurisdicción
     type_publication: Tipo de publicación
     type_relationship: Tipo de relación
