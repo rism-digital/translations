@@ -453,6 +453,7 @@ it:
     e_major: Mi maggiore
     e_minor: Mi minore
     earlier_heading: Intestazione precedente
+    easternmost_longitude: Easternmost longitude
     ecclesiastical_modes: Modi ecclesiastici
     edition: Edizione
     edition_imprint_fields: Campi per i dati editoriali
@@ -697,6 +698,7 @@ it:
     nickname: Soprannome
     no_linguistic_content: Senza contesto linguistico
     non_migrated_bound: Valore non migrato dal campo 563 (Rilegato con)
+    northernmost_latitude: Northernmost latitude
     not_applicable: Non applicabile
     notated_music: Musica notata
     note: Nota
@@ -859,6 +861,7 @@ it:
     sketches: Schizzi
     solo_voice: Voce solista
     soloist_instrument: Strumento solista
+    southernmost_latitude: Southernmost latitude
     source: Fonte
     sources: Fonti
     source_data_found: Fonte dei dati
@@ -941,6 +944,7 @@ it:
     voice_instrument: Voce/strumento
     volume_year_page: Volume, anno, pagina
     watermark_description: Filigrana
+    westernmost_longitude: Westernmost longitude
     woodwinds: Legni
     work: Opera
     work_catalog: Catalogo delle opere
