@@ -453,6 +453,7 @@ pt:
     e_major: Mi maior
     e_minor: Mi menor
     earlier_heading: Título anterior
+    easternmost_longitude: Easternmost longitude
     ecclesiastical_modes: Modos eclesiásticos ocidentais
     edition: Edição
     edition_imprint_fields: Campos edição, imprimir, etc.
@@ -697,6 +698,7 @@ pt:
     nickname: Apelido
     no_linguistic_content: Sem conteúdo linguístico
     non_migrated_bound: Valor não migrado do campo 563 (Encadernado com)
+    northernmost_latitude: Northernmost latitude
     not_applicable: Não aplicável
     notated_music: Escrita musical
     note: Nota
@@ -859,6 +861,7 @@ pt:
     sketches: Esboços
     solo_voice: Voz solista
     soloist_instrument: Instrumento solista
+    southernmost_latitude: Southernmost latitude
     source: Fonte
     sources: Fontes
     source_data_found: Fonte dos dados encontrados
@@ -941,6 +944,7 @@ pt:
     voice_instrument: Voz/instrumento
     volume_year_page: Volume, ano, página
     watermark_description: Descrição de Marca de água
+    westernmost_longitude: Westernmost longitude
     woodwinds: Madeiras
     work: Obra
     work_catalog: Catálogo da obra
