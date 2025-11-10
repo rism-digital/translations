@@ -453,6 +453,7 @@ pl:
     e_major: E-dur
     e_minor: e-moll
     earlier_heading: Wcześniejsza pozycja
+    easternmost_longitude: Easternmost longitude
     ecclesiastical_modes: Skale kościelne
     edition: Edycja
     edition_imprint_fields: Edycja, stopka wydawnicza itp. pola
@@ -697,6 +698,7 @@ pl:
     nickname: Przezwisko
     no_linguistic_content: Brak zawartości językowej
     non_migrated_bound: Non-migrated bound with value from 563
+    northernmost_latitude: Northernmost latitude
     not_applicable: Nie dotyczy
     notated_music: Notacja muzyczna
     note: Notatka
@@ -859,6 +861,7 @@ pl:
     sketches: Szkice
     solo_voice: Głos solowy
     soloist_instrument: Instrument solowy
+    southernmost_latitude: Southernmost latitude
     source: Źródło
     sources: Źródła
     source_data_found: Odnalezione źródło danych
@@ -941,6 +944,7 @@ pl:
     voice_instrument: Głos/instrument
     volume_year_page: Wolumen, rok, strona
     watermark_description: Opis znaku wodnego
+    westernmost_longitude: Westernmost longitude
     woodwinds: Instrumenty dęte drewniane
     work: Dzieło
     work_catalog: Katalog dzieł
