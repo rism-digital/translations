@@ -285,6 +285,7 @@ pl:
     aids: Pomoce
     alleged: Rzekomy
     alternate_spelling: Alternatywna pisownia
+    alternate_geographic_name: Alternate geographic name
     alternative_work_title: Alternatywny tytuł dzieła
     amount: Liczba
     annex: Dodatek
@@ -531,6 +532,7 @@ pl:
     general_note_incipits: Uwaga ogólna
     general_note_institution: Uwaga ogólna
     general_note_personal: Uwaga ogólna
+    geographic_area_code: Geographic area code
     geographic_name: Nazwa geograficzna
     geographic_subdivision: Dalszy podział geograficzny
     gf_major: Ges-dur
@@ -597,6 +599,7 @@ pl:
     language_libretto: Język libretta
     language_note: Uwaga o języku
     language_of_cataloging: Język katalogowania
+    language_of_name: Language of name
     language_original_text: Język tekstu oryginalnego
     language_text: Język tekstu
     later_entry: Późniejszy wpis
@@ -624,6 +627,7 @@ pl:
     local_note_field: Pole uwagi lokalnej
     local_notes_field: Pole uwag wewnętrznych
     local_number: Numer kontrolny
+    local_rism_code_for_country: Local RISM code for country / city / town
     location: Lokalizacja
     location_and_address: Lokalizacja i adres
     location_insertion: Lokalizacja wstawienia
@@ -832,6 +836,7 @@ pl:
     relation: Relacja
     relations: Relacje
     relationship: Relacja
+    relationship_code: Relationship code
     relationship_designation: Oznaczenie relacji w $i lub $4
     relationship_information: Informacje o relacjach
     religious_name: Imię z wyznania
