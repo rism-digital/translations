@@ -453,6 +453,7 @@ es:
     e_major: Mi Mayor
     e_minor: Mi menor
     earlier_heading: El encabezamiento anterior
+    easternmost_longitude: Easternmost longitude
     ecclesiastical_modes: Modos eclesiásticos
     edition: Edición
     edition_imprint_fields: Campos para los datos editoriales
@@ -697,6 +698,7 @@ es:
     nickname: Apodo
     no_linguistic_content: Sin contenido lingüístico
     non_migrated_bound: Non-migrated bound with value from 563
+    northernmost_latitude: Northernmost latitude
     not_applicable: No se aplica
     notated_music: Música notada
     note: Nota
@@ -859,6 +861,7 @@ es:
     sketches: Bosquejos
     solo_voice: Voz solista
     soloist_instrument: Instrumento solista
+    southernmost_latitude: Southernmost latitude
     source: Fuente
     sources: Fuentes
     source_data_found: Fuente de los datos encontrados
@@ -941,6 +944,7 @@ es:
     voice_instrument: Voz/instrumento
     volume_year_page: Volumen, año, página
     watermark_description: Descripción de las filigranas
+    westernmost_longitude: Westernmost longitude
     woodwinds: Vientos-madera
     work: Obra
     work_catalog: Catálogos de trabajo
