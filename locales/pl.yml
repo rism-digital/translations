@@ -285,7 +285,7 @@ pl:
     aids: Pomoce
     alleged: Rzekomy
     alternate_spelling: Alternatywna pisownia
-    alternate_geographic_name: Alternate geographic name
+    alternate_geographic_name: Alternatywna nazwa geograficzna
     alternative_work_title: Alternatywny tytuł dzieła
     amount: Liczba
     annex: Dodatek
@@ -454,7 +454,7 @@ pl:
     e_major: E-dur
     e_minor: e-moll
     earlier_heading: Wcześniejsza pozycja
-    easternmost_longitude: Easternmost longitude
+    easternmost_longitude: Najbardziej wysunięta na wschód długość geograficzna
     ecclesiastical_modes: Skale kościelne
     edition: Edycja
     edition_imprint_fields: Edycja, stopka wydawnicza itp. pola
@@ -532,7 +532,7 @@ pl:
     general_note_incipits: Uwaga ogólna
     general_note_institution: Uwaga ogólna
     general_note_personal: Uwaga ogólna
-    geographic_area_code: Geographic area code
+    geographic_area_code: Numer kierunkowy
     geographic_name: Nazwa geograficzna
     geographic_subdivision: Dalszy podział geograficzny
     gf_major: Ges-dur
@@ -599,7 +599,7 @@ pl:
     language_libretto: Język libretta
     language_note: Uwaga o języku
     language_of_cataloging: Język katalogowania
-    language_of_name: Language of name
+    language_of_name: Język nazwy
     language_original_text: Język tekstu oryginalnego
     language_text: Język tekstu
     later_entry: Późniejszy wpis
@@ -627,7 +627,7 @@ pl:
     local_note_field: Pole uwagi lokalnej
     local_notes_field: Pole uwag wewnętrznych
     local_number: Numer kontrolny
-    local_rism_code_for_country: Local RISM code for country / city / town
+    local_rism_code_for_country: Wewnętrzny kod RISM dla państwa/miasta/miasteczka
     location: Lokalizacja
     location_and_address: Lokalizacja i adres
     location_insertion: Lokalizacja wstawienia
@@ -702,7 +702,7 @@ pl:
     nickname: Przezwisko
     no_linguistic_content: Brak zawartości językowej
     non_migrated_bound: Non-migrated bound with value from 563
-    northernmost_latitude: Northernmost latitude
+    northernmost_latitude: Najbardziej wysunięta na północ długość geograficzna
     not_applicable: Nie dotyczy
     notated_music: Notacja muzyczna
     note: Notatka
@@ -866,7 +866,7 @@ pl:
     sketches: Szkice
     solo_voice: Głos solowy
     soloist_instrument: Instrument solowy
-    southernmost_latitude: Southernmost latitude
+    southernmost_latitude: Najbardziej wysunięta na południe długość geograficzna
     source: Źródło
     sources: Źródła
     source_data_found: Odnalezione źródło danych
@@ -932,6 +932,9 @@ pl:
     type_designer: Projektant kroju pisma
     type_institution: Rodzaj instytucji
     type_name_variant: Typ alternatywnej nazwy osoby
+    type_of_entity: Typ podmiotu
+    type_of_entity_code: Type of entity code
+    type_of_entity_term: Type of entity term
     type_of_jurisdiction: Rodzaj jurysdykcji
     type_publication: Rodzaj publikacji
     type_relationship: Rodzaj relacji
@@ -949,7 +952,7 @@ pl:
     voice_instrument: Głos/instrument
     volume_year_page: Wolumen, rok, strona
     watermark_description: Opis znaku wodnego
-    westernmost_longitude: Westernmost longitude
+    westernmost_longitude: Najbardziej wysunięta na zachód długość geograficzna
     woodwinds: Instrumenty dęte drewniane
     work: Dzieło
     work_catalog: Katalog dzieł
