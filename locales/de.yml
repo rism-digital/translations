@@ -285,6 +285,7 @@ de:
     aids: Arbeitshilfen
     alleged: Angeblich
     alternate_spelling: Andere Schreibweise
+    alternate_geographic_name: Alternativer geografischer Name
     alternative_work_title: Alternativer Werktitel
     amount: Anzahl
     annex: Anhang
@@ -453,7 +454,7 @@ de:
     e_major: E-Dur
     e_minor: e-Moll
     earlier_heading: Frühere Überschrift
-    easternmost_longitude: Easternmost longitude
+    easternmost_longitude: Östlicher Längengrad
     ecclesiastical_modes: Kirchentonarten
     edition: Edition
     edition_imprint_fields: Ausgabe- und Impressumsfelder
@@ -531,6 +532,7 @@ de:
     general_note_incipits: Kommentar zum Musikincipit
     general_note_institution: Allgemeine Fußnote
     general_note_personal: Externe Bemerkungen
+    geographic_area_code: Geographic area code
     geographic_name: Geographischer Name
     geographic_subdivision: Geographische Unterteilung
     gf_major: Ges-Dur
@@ -597,6 +599,7 @@ de:
     language_libretto: Sprachcode von Libretti
     language_note: Sprachenvermerk
     language_of_cataloging: Katalogisierungsspache
+    language_of_name: Language of name
     language_original_text: Sprachcode des Originaltextes
     language_text: Sprachcode
     later_entry: Späterer Eintrag
@@ -624,6 +627,7 @@ de:
     local_note_field: Lokale Bemerkungen
     local_notes_field: Interne Fussnoten
     local_number: Lokale Nummer
+    local_rism_code_for_country: Local RISM code for country / city / town
     location: Ort
     location_and_address: Adresse
     location_insertion: Stelle der Einlage im Hauptwerk
@@ -698,7 +702,7 @@ de:
     nickname: Beiname
     no_linguistic_content: ohne Sprache
     non_migrated_bound: Non-migrated bound with value from 563
-    northernmost_latitude: Northernmost latitude
+    northernmost_latitude: Nördlicher Breitengrad
     not_applicable: Nicht zutreffend
     notated_music: Notenmaterial
     note: Hinweis
@@ -832,6 +836,7 @@ de:
     relation: Bedeutung
     relations: Beziehungen
     relationship: Beziehung
+    relationship_code: Relationship code
     relationship_designation: Beziehungsbezeichnung in $i oder $4
     relationship_information: Informationen zur Beziehung
     religious_name: Ordensname
@@ -861,7 +866,7 @@ de:
     sketches: Skizzen
     solo_voice: Solostimme
     soloist_instrument: Soloinstrument
-    southernmost_latitude: Southernmost latitude
+    southernmost_latitude: Südlicher Breitengrad
     source: Quelle
     sources: Quellen
     source_data_found: Literaturnachweis
@@ -944,7 +949,7 @@ de:
     voice_instrument: Besetzung
     volume_year_page: Jahrgang, Seite
     watermark_description: Wasserzeichen
-    westernmost_longitude: Westernmost longitude
+    westernmost_longitude: Westlicher Längengrad
     woodwinds: Holzblasinstrumente
     work: Werk
     work_catalog: Werkkatalog
