@@ -933,8 +933,8 @@ pt:
     type_institution: Tipo de instituição
     type_name_variant: Tipo de variante de nome
     type_of_entity: Tipo de entidade
-    type_of_entity_code: Tipo de código de entidade
-    type_of_entity_term: Código do Tipo da entidade
+    type_of_entity_code: Código do tipo de entidade
+    type_of_entity_term: Termo para o tipo de entidade
     type_of_jurisdiction: Tipo de jurisdição
     type_publication: Tipo de publicação
     type_relationship: Tipo de relação
