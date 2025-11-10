@@ -933,8 +933,8 @@ pl:
     type_institution: Rodzaj instytucji
     type_name_variant: Typ alternatywnej nazwy osoby
     type_of_entity: Typ podmiotu
-    type_of_entity_code: Type of entity code
-    type_of_entity_term: Type of entity term
+    type_of_entity_code: Typ kodu podmiotu
+    type_of_entity_term: Typ terminu podmiotu
     type_of_jurisdiction: Rodzaj jurysdykcji
     type_publication: Rodzaj publikacji
     type_relationship: Rodzaj relacji
