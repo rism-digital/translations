@@ -454,7 +454,7 @@ es:
     e_major: Mi Mayor
     e_minor: Mi menor
     earlier_heading: El encabezamiento anterior
-    easternmost_longitude: Easternmost longitude
+    easternmost_longitude: Longitud más al este
     ecclesiastical_modes: Modos eclesiásticos
     edition: Edición
     edition_imprint_fields: Campos para los datos editoriales
@@ -627,7 +627,7 @@ es:
     local_note_field: Campo de nota local
     local_notes_field: Campo de notas locales
     local_number: Número local
-    local_rism_code_for_country: Local RISM code for country / city / town
+    local_rism_code_for_country: Código local RISM para país/ciudad/ciudad
     location: Lugar
     location_and_address: Ubicación y dirección
     location_insertion: Ubiación de la inserción
@@ -702,7 +702,7 @@ es:
     nickname: Apodo
     no_linguistic_content: Sin contenido lingüístico
     non_migrated_bound: Non-migrated bound with value from 563
-    northernmost_latitude: Northernmost latitude
+    northernmost_latitude: Latitud más al norte
     not_applicable: No se aplica
     notated_music: Música notada
     note: Nota
@@ -836,7 +836,7 @@ es:
     relation: Relación
     relations: Relaciones
     relationship: Relación
-    relationship_code: Relationship code
+    relationship_code: Código de relación
     relationship_designation: Designación de la relación en $i o $4
     relationship_information: Información de la relación
     religious_name: Nombre religioso
@@ -866,7 +866,7 @@ es:
     sketches: Bosquejos
     solo_voice: Voz solista
     soloist_instrument: Instrumento solista
-    southernmost_latitude: Southernmost latitude
+    southernmost_latitude: Latitud más al sur
     source: Fuente
     sources: Fuentes
     source_data_found: Fuente de los datos encontrados
@@ -932,6 +932,9 @@ es:
     type_designer: Fundidor
     type_institution: Tipo de institución
     type_name_variant: Tipo de variante de nombre
+    type_of_entity: Type of entity
+    type_of_entity_code: Type of entity code
+    type_of_entity_term: Type of entity term
     type_of_jurisdiction: Tipo de jurisdicción
     type_publication: Tipo de publicación
     type_relationship: Tipo de relación
@@ -949,7 +952,7 @@ es:
     voice_instrument: Voz/instrumento
     volume_year_page: Volumen, año, página
     watermark_description: Descripción de las filigranas
-    westernmost_longitude: Westernmost longitude
+    westernmost_longitude: Longitud más al oeste
     woodwinds: Vientos-madera
     work: Obra
     work_catalog: Catálogos de trabajo
