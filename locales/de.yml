@@ -932,9 +932,9 @@ de:
     type_designer: Schriftentwerfer
     type_institution: Typ der Körperschaft
     type_name_variant: Art der Namensvariante
-    type_of_entity: Type of entity
-    type_of_entity_code: Type of entity code
-    type_of_entity_term: Type of entity term
+    type_of_entity: Entitätentyp
+    type_of_entity_code: Entitätencode
+    type_of_entity_term: Art des Entitätenbegriffs
     type_of_jurisdiction: Art der Gerichtsbarkeit
     type_publication: Ausgabeform
     type_relationship: Beziehung
