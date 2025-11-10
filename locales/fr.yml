@@ -285,6 +285,7 @@ fr:
     aids: Aide
     alleged: Présumé
     alternate_spelling: Autres formes
+    alternate_geographic_name: Alternate geographic name
     alternative_work_title: Titre alternatif
     amount: Nombre
     annex: Annexe
@@ -531,6 +532,7 @@ fr:
     general_note_incipits: Remarque générale
     general_note_institution: Remarque générale
     general_note_personal: Remarque générale
+    geographic_area_code: Geographic area code
     geographic_name: Nom géographique
     geographic_subdivision: Subdivision géographique
     gf_major: Sol♭ majeur
@@ -597,6 +599,7 @@ fr:
     language_libretto: Langue du livret
     language_note: Note sur la langue
     language_of_cataloging: Langage de catalogation
+    language_of_name: Language of name
     language_original_text: Langue du texte original
     language_text: Langue du texte chanté
     later_entry: Entrée ultérieure
@@ -624,6 +627,7 @@ fr:
     local_note_field: Note locale
     local_notes_field: Note non publique
     local_number: No. local
+    local_rism_code_for_country: Local RISM code for country / city / town
     location: Lieu
     location_and_address: Lieu et adresse
     location_insertion: Remarque sur l'endroit de l'insertion
@@ -832,6 +836,7 @@ fr:
     relation: Relation
     relations: Relations
     relationship: Relation
+    relationship_code: Relationship code
     relationship_designation: Désignation de la relation en $i ou 4
     relationship_information: Informations sur les relations
     religious_name: Nom d'ordre
