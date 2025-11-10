@@ -453,6 +453,7 @@ de:
     e_major: E-Dur
     e_minor: e-Moll
     earlier_heading: Frühere Überschrift
+    easternmost_longitude: Easternmost longitude
     ecclesiastical_modes: Kirchentonarten
     edition: Edition
     edition_imprint_fields: Ausgabe- und Impressumsfelder
@@ -697,6 +698,7 @@ de:
     nickname: Beiname
     no_linguistic_content: ohne Sprache
     non_migrated_bound: Non-migrated bound with value from 563
+    northernmost_latitude: Northernmost latitude
     not_applicable: Nicht zutreffend
     notated_music: Notenmaterial
     note: Hinweis
@@ -859,6 +861,7 @@ de:
     sketches: Skizzen
     solo_voice: Solostimme
     soloist_instrument: Soloinstrument
+    southernmost_latitude: Southernmost latitude
     source: Quelle
     sources: Quellen
     source_data_found: Literaturnachweis
@@ -941,6 +944,7 @@ de:
     voice_instrument: Besetzung
     volume_year_page: Jahrgang, Seite
     watermark_description: Wasserzeichen
+    westernmost_longitude: Westernmost longitude
     woodwinds: Holzblasinstrumente
     work: Werk
     work_catalog: Werkkatalog
