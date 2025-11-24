@@ -532,7 +532,7 @@ de:
     general_note_incipits: Kommentar zum Musikincipit
     general_note_institution: Allgemeine Fußnote
     general_note_personal: Externe Bemerkungen
-    geographic_area_code: Geographic area code
+    geographic_area_code: Geografische Gebietsnummer
     geographic_name: Geographischer Name
     geographic_subdivision: Geographische Unterteilung
     gf_major: Ges-Dur
@@ -599,7 +599,7 @@ de:
     language_libretto: Sprachcode von Libretti
     language_note: Sprachenvermerk
     language_of_cataloging: Katalogisierungsspache
-    language_of_name: Language of name
+    language_of_name: Sprache des Namens
     language_original_text: Sprachcode des Originaltextes
     language_text: Sprachcode
     later_entry: Späterer Eintrag
@@ -627,7 +627,7 @@ de:
     local_note_field: Lokale Bemerkungen
     local_notes_field: Interne Fussnoten
     local_number: Lokale Nummer
-    local_rism_code_for_country: Local RISM code for country / city / town
+    local_rism_code_for_country: Lokaler RISM-Code für Land / Stadt / Ort
     location: Ort
     location_and_address: Adresse
     location_insertion: Stelle der Einlage im Hauptwerk
@@ -836,7 +836,7 @@ de:
     relation: Bedeutung
     relations: Beziehungen
     relationship: Beziehung
-    relationship_code: Relationship code
+    relationship_code: Informationen zur Beziehung
     relationship_designation: Beziehungsbezeichnung in $i oder $4
     relationship_information: Informationen zur Beziehung
     religious_name: Ordensname
