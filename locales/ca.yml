@@ -932,9 +932,9 @@ ca:
     type_designer: Tipògraf
     type_institution: Tipus d'institució
     type_name_variant: Tipus de variant de nom
-    type_of_entity: Type of entity
-    type_of_entity_code: Type of entity code
-    type_of_entity_term: Type of entity term
+    type_of_entity: Tipus d'entitat
+    type_of_entity_code: Codi de tipus d'entitat
+    type_of_entity_term: Terme de tipus d'entitat
     type_of_jurisdiction: Tipus de jurisdicció
     type_publication: Tipus de publicació
     type_relationship: Tipus de relació
@@ -981,7 +981,7 @@ ca:
     P60183: "Insert"
   relations_works:
     P60250: "Obra derivada"
-    P60305: "Is based on"
+    P60305: "Basat en"
     P60216: "Desenvolupat com a"
     P60294: "Versió desenvolupada de"
     P60274: "Arranjat com a"
@@ -993,10 +993,10 @@ ca:
     P50010: Subordinat jeràrquic
     P50012: Entitat anterior
     P50016: Entitat posterior
-    P50020: Founding family of corporate body
-    P50230: Corporate body member of corporate body
-    P50435: Corporate body member of family
-    P50301: Absorbed corporate body
+    P50020: Família fundadora de l'entitat
+    P50230: Membre de l'entitat
+    P50435: Membre de la família de l'entitat
+    P50301: Entitat absorbida
   verovio:
     position: "Posició"
     warning: "Avís"
