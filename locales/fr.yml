@@ -532,6 +532,7 @@ fr:
     general_note_incipits: Remarque générale
     general_note_institution: Remarque générale
     general_note_personal: Remarque générale
+    geodata: Geographic information
     geographic_area_code: Geographic area code
     geographic_name: Nom géographique
     geographic_subdivision: Subdivision géographique
@@ -606,6 +607,9 @@ fr:
     later_heading: Rubrique ultérieure
     latitude: Latitude
     leader: Guide
+    legacy_country: Pays
+    legacy_country_district: Country and District (please only fill these)
+    legacy_district: District
     library: Bibliothèque
     library_information: Bibliothèque
     library_information_relations: Bibliothèque et relations
