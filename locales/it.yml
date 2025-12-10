@@ -532,6 +532,7 @@ it:
     general_note_incipits: Commento all'incipit musicale
     general_note_institution: Nota generale
     general_note_personal: Nota generale
+    geodata: Geographic information
     geographic_area_code: Codice dell'area geografica
     geographic_name: Nome geografico
     geographic_subdivision: Suddivisione geografica
@@ -606,6 +607,9 @@ it:
     later_heading: Intestazione successiva
     latitude: Latitudine
     leader: Leader
+    legacy_country: Paese
+    legacy_country_district: Country and District (please only fill these)
+    legacy_district: District
     library: Biblioteca
     library_information: Biblioteca
     library_information_relations: Biblioteca e relazione
