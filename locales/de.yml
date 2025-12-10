@@ -532,7 +532,7 @@ de:
     general_note_incipits: Kommentar zum Musikincipit
     general_note_institution: Allgemeine Fußnote
     general_note_personal: Externe Bemerkungen
-    geodata: Geographic information
+    geodata: Geographische Informationen
     geographic_area_code: Geografische Gebietsnummer
     geographic_name: Geographischer Name
     geographic_subdivision: Geographische Unterteilung
@@ -608,8 +608,8 @@ de:
     latitude: Breitengrad
     leader: Leader
     legacy_country: Land
-    legacy_country_district: Country and District (please only fill these)
-    legacy_district: District
+    legacy_country_district: Land und Bezirk (bitte nur diese ausfüllen)
+    legacy_district: Bezirk
     library: Bibliothek
     library_information: Besitzerangaben
     library_information_relations: Besitzerangaben und Verlinkung
