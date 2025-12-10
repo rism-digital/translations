@@ -532,6 +532,7 @@ es:
     general_note_incipits: Nota general
     general_note_institution: Nota general
     general_note_personal: Nota general
+    geodata: Geographic information
     geographic_area_code: Código geográfico de área
     geographic_name: Nombre geográfico
     geographic_subdivision: Subdivisión geográfica
@@ -606,6 +607,9 @@ es:
     later_heading: El encabezamiento posterios
     latitude: Latitud
     leader: Líder
+    legacy_country: País
+    legacy_country_district: Country and District (please only fill these)
+    legacy_district: District
     library: Repositorio
     library_information: Información del repositorio
     library_information_relations: Información del repositorio y sus relaciones
