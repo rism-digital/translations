@@ -532,7 +532,7 @@ pl:
     general_note_incipits: Uwaga ogólna
     general_note_institution: Uwaga ogólna
     general_note_personal: Uwaga ogólna
-    geodata: Geographic information
+    geodata: Informacje geograficzne
     geographic_area_code: Numer kierunkowy
     geographic_name: Nazwa geograficzna
     geographic_subdivision: Dalszy podział geograficzny
@@ -608,7 +608,7 @@ pl:
     latitude: Szerokość geograficzna
     leader: Leader
     legacy_country: Kraj
-    legacy_country_district: Country and District (please only fill these)
+    legacy_country_district: Kraj i Okręg (proszę wypełnić tylko te dane)
     legacy_district: District
     library: Biblioteka
     library_information: Informacje o bibliotece
