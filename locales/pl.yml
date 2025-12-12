@@ -608,8 +608,8 @@ pl:
     latitude: Szerokość geograficzna
     leader: Leader
     legacy_country: Kraj
-    legacy_country_district: Kraj i Okręg (proszę wypełnić tylko te dane)
-    legacy_district: District
+    legacy_country_district: Kraj i Region (proszę wypełnić tylko te dane)
+    legacy_district: Region
     library: Biblioteka
     library_information: Informacje o bibliotece
     library_information_relations: Informacje o bibliotece i powiązaniach
