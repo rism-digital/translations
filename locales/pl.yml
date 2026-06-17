@@ -552,6 +552,8 @@ pl:
     identification_status: Status identyfikacji
     identified: Zidentyfikowane
     identified_holding: Zidentyfikowany egzemplarz
+    identified_manuscript: Zidentyfikowany rękopis
+    identitied_printed_edition: Identified printed edition
     identified_source: Zidentyfikowane źródło
     identified_work: Zidentyfikowane Dzieło
     identity: Tożsamość
