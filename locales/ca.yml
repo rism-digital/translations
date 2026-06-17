@@ -552,6 +552,8 @@ ca:
     identification_status: Estat de la identificació
     identified: Identificat
     identified_holding: Fons identificat
+    identified_manuscript: Manuscrit identificat
+    identitied_printed_edition: Identified printed edition
     identified_source: Obra identificada
     identified_work: Obra identificada
     identity: Identitat
