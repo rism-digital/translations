@@ -36,7 +36,7 @@ ko:
   inventories:
     identifications: "Identifications"
     inventory_item_transcription: "Transcription of item in the inventory"
-    inventory_source_link: "Link to the inventory source ($w)"
+    inventory_source_link: "Link to the inventory source"
     inventory_category_section: "Category/Section in the inventory"
     inventory_item_number_page: "Number/page in the inventory"
     inventory_full_transcription: "Full transcription of item"
@@ -46,6 +46,8 @@ ko:
     standardized_piece_description: "Standardized description of the piece recorded in the inventory"
     standardized_description_guidelines: "Guidelines: Encoded form of the transcription area"
     original_source_material_description: "Material description of the original source listed in the inventory"
+    identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    exemplar: "Exemplar"
   languages:
     albanian: Albanian
     afrikaans: Afrikaans
@@ -547,6 +549,7 @@ ko:
     general_note_incipits: General note for music incipit
     general_note_institution: General note
     general_note_personal: General note
+    genre: Genre
     geodata: Geographic information
     geographic_area_code: Geographic area code
     geographic_name: Geographic name
@@ -867,6 +870,7 @@ ko:
     retrospective_conversion: Retrospective conversion
     rism_id_number: RISM ID number
     role: Role
+    scoring: Scoring
     scoring_in_movement: Scoring in movement
     scoring_summary: Scoring summary
     scribe: Scribe
