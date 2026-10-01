@@ -47,6 +47,7 @@ de:
     standardized_description_guidelines: "Guidelines: Encoded form of the transcription area"
     original_source_material_description: "Material description of the original source listed in the inventory"
     identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    identified_printed_edition: Identifizierte gedruckte Ausgabe
     exemplar: "Exemplar"
   languages:
     albanian: Albanisch
@@ -1005,6 +1006,7 @@ de:
     P60274: "Bearbeitung als"
     P60194: "Einfügen in"
     P60183: "Einfügen"
+    P60190: "Identifizierte gedruckte Ausgabe"
   relations_works:
     P60250: "Hat Derivate"
     P60305: "Basiert auf"
