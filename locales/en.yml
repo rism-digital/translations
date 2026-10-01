@@ -1008,6 +1008,7 @@ en:
     P60274: "Arranged as"
     P60194: "Insert in"
     P60183: "Insert"
+    P60190: "Identified printed edition"
   relations_works:
     P60250: "Has derivative"
     P60305: "Is based on"
