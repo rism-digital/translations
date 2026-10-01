@@ -36,7 +36,7 @@ pt:
   inventories:
     identifications: "Identifications"
     inventory_item_transcription: "Transcription of item in the inventory"
-    inventory_source_link: "Link to the inventory source ($w)"
+    inventory_source_link: "Link to the inventory source"
     inventory_category_section: "Category/Section in the inventory"
     inventory_item_number_page: "Number/page in the inventory"
     inventory_full_transcription: "Full transcription of item"
@@ -45,7 +45,9 @@ pt:
     inventory_incipits: "Incipits as given on item in the inventory"
     standardized_piece_description: "Standardized description of the piece recorded in the inventory"
     standardized_description_guidelines: "Guidelines: Encoded form of the transcription area"
-    original_source_material_description: "Material description of the original source listed in the inventory"
+    original_source_material_description: "Descrição do material da fonte original listada no inventário"
+    identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    exemplar: "Exemplar"
   languages:
     albanian: Albanês
     afrikaans: Africânder
@@ -547,6 +549,7 @@ pt:
     general_note_incipits: Nota geral
     general_note_institution: Nota geral
     general_note_personal: Nota geral
+    genre: Genre
     geodata: Informação geográfica
     geographic_area_code: Geographic area code
     geographic_name: Nome geográfico
@@ -867,6 +870,7 @@ pt:
     retrospective_conversion: Conversão restropectiva
     rism_id_number: Número ID RISM
     role: Personagem
+    scoring: Scoring
     scoring_in_movement: Formação instrumental no movimento
     scoring_summary: Sintese da formação instrumental
     scribe: Copista
