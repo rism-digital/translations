@@ -33,6 +33,21 @@ pl:
     when_to_input_new_record: Kiedy wprowadzić nowy rekord (dla druków muzycznych)
     workflow: Przepływ pracy
     'yes': 'Tak'
+  inventories:
+    identifications: "Dane identyfikacyjne"
+    inventory_item_transcription: "Transkrypcja pozycji w inwentarzu"
+    inventory_source_link: "Link to the inventory source"
+    inventory_category_section: "Kategoria/Sekcja w inwentarzu"
+    inventory_item_number_page: "Numer/strona w inwentarzu"
+    inventory_full_transcription: "Pełna transkrypcja pozycji"
+    inventory_variant_title: "Tytuł alternatywny pozycji"
+    inventory_guidelines: "Wytyczne: Podobnie jak w TOC, indeks"
+    inventory_incipits: "Incipity zgodnie z pozycją w inwentarzu"
+    standardized_piece_description: "Znormalizowany opis kompozycji odnotowany w inwentarzu"
+    standardized_description_guidelines: "Wytyczne: Zakodowana forma obszaru transkrypcji"
+    original_source_material_description: "Opis fizyczny oryginalnego źródła wymienionego w inwentarzu"
+    identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    exemplar: "Egzemplarz"
   languages:
     albanian: Albański
     afrikaans: Afrykanerski
@@ -50,7 +65,7 @@ pl:
     celtic_other: Celtycki (inny)
     chinese: Chiński
     corsican: Korsykański
-    central_american_indian: Central American Indian (Other)
+    central_american_indian: Język indiański Ameryki Środkowej (inne)
     cree: Kri
     creoles_pidgins_other: Kreolski i Pidgin (inne)
     croatian: Chorwacki
@@ -534,6 +549,7 @@ pl:
     general_note_incipits: Uwaga ogólna
     general_note_institution: Uwaga ogólna
     general_note_personal: Uwaga ogólna
+    genre: Genre
     geodata: Informacje geograficzne
     geographic_area_code: Numer kierunkowy
     geographic_name: Nazwa geograficzna
@@ -854,6 +870,7 @@ pl:
     retrospective_conversion: Konwersja retrospektywna
     rism_id_number: RISM ID
     role: Rola
+    scoring: Obsada
     scoring_in_movement: Obsada w części
     scoring_summary: Podsumowanie obsady
     scribe: Kopista

@@ -33,6 +33,21 @@ fr:
     when_to_input_new_record: Quand saisir une nouvelle notice (musique imprimée)
     workflow: Flux de travail
     'yes': 'Oui'
+  inventories:
+    identifications: "Identifications"
+    inventory_item_transcription: "Transcription of item in the inventory"
+    inventory_source_link: "Link to the inventory source"
+    inventory_category_section: "Category/Section in the inventory"
+    inventory_item_number_page: "Number/page in the inventory"
+    inventory_full_transcription: "Full transcription of item"
+    inventory_variant_title: "Variant title of item"
+    inventory_guidelines: "Guidelines: Like in TOC, index"
+    inventory_incipits: "Incipits as given on item in the inventory"
+    standardized_piece_description: "Standardized description of the piece recorded in the inventory"
+    standardized_description_guidelines: "Guidelines: Encoded form of the transcription area"
+    original_source_material_description: "Material description of the original source listed in the inventory"
+    identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    exemplar: "Exemplaire"
   languages:
     albanian: Albanais
     afrikaans: Afrikaans
@@ -534,6 +549,7 @@ fr:
     general_note_incipits: Remarque générale
     general_note_institution: Remarque générale
     general_note_personal: Remarque générale
+    genre: Genre
     geodata: Informations géographiques
     geographic_area_code: Indicatif géographique
     geographic_name: Nom géographique
@@ -854,6 +870,7 @@ fr:
     retrospective_conversion: Conversion retrospective
     rism_id_number: No. RISM
     role: Personnage
+    scoring: Scoring
     scoring_in_movement: Instrumentation du mouvement
     scoring_summary: Instrumentation condensée
     scribe: Copiste / scribe
