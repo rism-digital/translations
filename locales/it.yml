@@ -34,19 +34,19 @@ it:
     workflow: Workflow
     'yes': 'Sì'
   inventories:
-    identifications: "Identifications"
-    inventory_item_transcription: "Transcription of item in the inventory"
-    inventory_source_link: "Link to the inventory source"
-    inventory_category_section: "Category/Section in the inventory"
-    inventory_item_number_page: "Number/page in the inventory"
-    inventory_full_transcription: "Full transcription of item"
-    inventory_variant_title: "Variant title of item"
-    inventory_guidelines: "Guidelines: Like in TOC, index"
-    inventory_incipits: "Incipits as given on item in the inventory"
-    standardized_piece_description: "Standardized description of the piece recorded in the inventory"
-    standardized_description_guidelines: "Guidelines: Encoded form of the transcription area"
-    original_source_material_description: "Material description of the original source listed in the inventory"
-    identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    identifications: "Identificazioni"
+    inventory_item_transcription: "Trascrizione della voce d'inventario"
+    inventory_source_link: "Collegamento alla fonte dell'inventario"
+    inventory_category_section: "Categoria o sezione nell'inventario"
+    inventory_item_number_page: "Numero e pagina nell'inventario"
+    inventory_full_transcription: "Trascrizione completa della voce d'inventario"
+    inventory_variant_title: "Titolo alternativo dell'elemento"
+    inventory_guidelines: "Linee guida: Come nel sommario o indice"
+    inventory_incipits: "Incipit secondo la voce d'inventario"
+    standardized_piece_description: "Descrizione standard del brano riportato nell'inventario"
+    standardized_description_guidelines: "Linee guida: Forma codificata dell'area della trascrizione"
+    original_source_material_description: "Descrizione materiale della fonte originariamente descritta nell'inventario"
+    identified_printed_edition_exemplar: "Esemplare identificato dell'edizione a stampa"
     identified_printed_edition: Edizione a stampa identificata
     exemplar: "Esemplare"
   languages:
@@ -550,7 +550,7 @@ it:
     general_note_incipits: Commento all'incipit musicale
     general_note_institution: Nota generale
     general_note_personal: Nota generale
-    genre: Genre
+    genre: Genere musicale
     geodata: Informazioni geografiche
     geographic_area_code: Codice dell'area geografica
     geographic_name: Nome geografico
@@ -871,7 +871,7 @@ it:
     retrospective_conversion: Conversione retrospettiva
     rism_id_number: Numero documento RISM
     role: Personaggio
-    scoring: Scoring
+    scoring: Organico
     scoring_in_movement: Organico del movimento
     scoring_summary: Organico sintetico
     scribe: Copista
