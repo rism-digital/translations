@@ -47,6 +47,7 @@ pl:
     standardized_description_guidelines: "Wytyczne: Zakodowana forma obszaru transkrypcji"
     original_source_material_description: "Opis fizyczny oryginalnego źródła wymienionego w inwentarzu"
     identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    identified_printed_edition: Zidentyfikowane źródło drukowane
     exemplar: "Egzemplarz"
   languages:
     albanian: Albański
@@ -1005,6 +1006,7 @@ pl:
     P60274: "Ułożone jako"
     P60194: "Wstawić do"
     P60183: "Wstawić"
+    P60190: "Zidentyfikowane źródło drukowane"
   relations_works:
     P60250: "Posiada derywatywę"
     P60305: "Jest oparte na"
