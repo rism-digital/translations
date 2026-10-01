@@ -44,7 +44,7 @@ pt:
     inventory_guidelines: "Guidelines: Like in TOC, index"
     inventory_incipits: "Incipits as given on item in the inventory"
     standardized_piece_description: "Standardized description of the piece recorded in the inventory"
-    standardized_description_guidelines: "Guidelines: Encoded form of the transcription area"
+    standardized_description_guidelines: "Instruções: Formulário codificado da área de transcrição"
     original_source_material_description: "Descrição do material da fonte original listada no inventário"
     identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
     identified_printed_edition: Edição impressa identificada
