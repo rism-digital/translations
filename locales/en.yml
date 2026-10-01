@@ -34,6 +34,7 @@ en:
     workflow: Workflow
     'yes': 'Yes'
   inventories:
+    identifications: "Identifications"
     inventory_item_transcription: "Transcription of item in the inventory"
     inventory_source_link: "Link to the inventory source ($w)"
     inventory_category_section: "Category/Section in the inventory ($n)"
