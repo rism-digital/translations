@@ -34,18 +34,20 @@ pl:
     workflow: Przepływ pracy
     'yes': 'Tak'
   inventories:
-    identifications: "Identifications"
-    inventory_item_transcription: "Transcription of item in the inventory"
-    inventory_source_link: "Link to the inventory source ($w)"
-    inventory_category_section: "Category/Section in the inventory"
-    inventory_item_number_page: "Number/page in the inventory"
-    inventory_full_transcription: "Full transcription of item"
-    inventory_variant_title: "Variant title of item"
-    inventory_guidelines: "Guidelines: Like in TOC, index"
-    inventory_incipits: "Incipits as given on item in the inventory"
-    standardized_piece_description: "Standardized description of the piece recorded in the inventory"
-    standardized_description_guidelines: "Guidelines: Encoded form of the transcription area"
-    original_source_material_description: "Material description of the original source listed in the inventory"
+    identifications: "Dane identyfikacyjne"
+    inventory_item_transcription: "Transkrypcja pozycji w inwentarzu"
+    inventory_source_link: "Link to the inventory source"
+    inventory_category_section: "Kategoria/Sekcja w inwentarzu"
+    inventory_item_number_page: "Numer/strona w inwentarzu"
+    inventory_full_transcription: "Pełna transkrypcja pozycji"
+    inventory_variant_title: "Tytuł alternatywny pozycji"
+    inventory_guidelines: "Wytyczne: Podobnie jak w TOC, indeks"
+    inventory_incipits: "Incipity zgodnie z pozycją w inwentarzu"
+    standardized_piece_description: "Znormalizowany opis kompozycji odnotowany w inwentarzu"
+    standardized_description_guidelines: "Wytyczne: Zakodowana forma obszaru transkrypcji"
+    original_source_material_description: "Opis fizyczny oryginalnego źródła wymienionego w inwentarzu"
+    identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    exemplar: "Egzemplarz"
   languages:
     albanian: Albański
     afrikaans: Afrykanerski
@@ -547,6 +549,7 @@ pl:
     general_note_incipits: Uwaga ogólna
     general_note_institution: Uwaga ogólna
     general_note_personal: Uwaga ogólna
+    genre: Genre
     geodata: Informacje geograficzne
     geographic_area_code: Numer kierunkowy
     geographic_name: Nazwa geograficzna
@@ -867,6 +870,7 @@ pl:
     retrospective_conversion: Konwersja retrospektywna
     rism_id_number: RISM ID
     role: Rola
+    scoring: Obsada
     scoring_in_movement: Obsada w części
     scoring_summary: Podsumowanie obsady
     scribe: Kopista
