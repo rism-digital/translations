@@ -47,6 +47,7 @@ it:
     standardized_description_guidelines: "Guidelines: Encoded form of the transcription area"
     original_source_material_description: "Material description of the original source listed in the inventory"
     identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    identified_printed_edition: Edizione a stampa identificata
     exemplar: "Esemplare"
   languages:
     albanian: Albanese
@@ -1005,6 +1006,7 @@ it:
     P60274: "Arrangiato come"
     P60194: "Inserto in"
     P60183: "Inserto"
+    P60190: "Edizione a stampa identificata"
   relations_works:
     P60250: "Opera derivata"
     P60305: "Si basa su"
