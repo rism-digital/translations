@@ -46,7 +46,7 @@ pl:
     standardized_piece_description: "Znormalizowany opis kompozycji odnotowany w inwentarzu"
     standardized_description_guidelines: "Wytyczne: Zakodowana forma obszaru transkrypcji"
     original_source_material_description: "Opis fizyczny oryginalnego źródła wymienionego w inwentarzu"
-    identified_printed_edition_exemplar: "Identified exemplar of the printed edition"
+    identified_printed_edition_exemplar: "Zidentyfikowany egzemplarz wydania drukowanego"
     identified_printed_edition: Zidentyfikowane źródło drukowane
     exemplar: "Egzemplarz"
   languages:
@@ -550,7 +550,7 @@ pl:
     general_note_incipits: Uwaga ogólna
     general_note_institution: Uwaga ogólna
     general_note_personal: Uwaga ogólna
-    genre: Genre
+    genre: Gatunek
     geodata: Informacje geograficzne
     geographic_area_code: Numer kierunkowy
     geographic_name: Nazwa geograficzna
