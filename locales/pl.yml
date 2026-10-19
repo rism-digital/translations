@@ -36,7 +36,7 @@ pl:
   inventories:
     identifications: "Dane identyfikacyjne"
     inventory_item_transcription: "Transkrypcja pozycji w inwentarzu"
-    inventory_source_link: "Link to the inventory source"
+    inventory_source_link: "Link do źródła inwentarza"
     inventory_category_section: "Kategoria/Sekcja w inwentarzu"
     inventory_item_number_page: "Numer/strona w inwentarzu"
     inventory_full_transcription: "Pełna transkrypcja pozycji"
